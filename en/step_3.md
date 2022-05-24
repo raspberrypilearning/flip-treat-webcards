@@ -28,7 +28,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 27
-line_highlights: 29, 39
+line_highlights: 29, 37
 ---
     <main>
        <section class="wrap">
@@ -37,8 +37,8 @@ line_highlights: 29, 39
               <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
             </div>
             <div>
-            <h2>Lapis Sarawak</h2>
-            <p>A cake baked in layers to make colourful patterns.</p>
+              <h2>Lapis Sarawak</h2>
+              <p>A cake baked in layers to make colourful patterns.</p>
             </div>
           </div>
       </section>
@@ -69,8 +69,8 @@ line_highlights: 30, 38
                 <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
               </div>
               <div>
-              <h2>Lapis Sarawak</h2>
-              <p>A cake baked in layers to make colourful patterns.</p>
+                <h2>Lapis Sarawak</h2>
+                <p>A cake baked in layers to make colourful patterns.</p>
               </div>
             </div>
         </div>
@@ -90,7 +90,7 @@ What do you notice about the content?
 
 --- task ---
 
-Add the `card-face` class to the <div> tag around the image. The `card-face` class tells the elements within it to hide when they are flipped to the back. 
+Add the `card-face` class to the `<div>` tag around the image. The `card-face` class tells the elements within it to hide when they are flipped to the back. 
  
 --- code ---
 ---
@@ -127,7 +127,7 @@ line_highlights: 31
 
 --- task ---
 
-Add the `card-face` class to the <div> tag around the heading and paragraph so they also hide when they are flipped to the back.
+Add the `card-face` class to the `<div>` tag around the heading and paragraph so they also hide when they are flipped to the back.
  
 --- code ---
 ---
@@ -162,11 +162,13 @@ line_highlights: 34
 
 --- /task ---
 
-Your card should be set to have the text appear on the back flipped face not the front. Earlier when the text did appear on the back it was flipped so could only be read backwards. We can solve both of these things with one piece of code. 
+Your card needs the text to appear on the back flipped face and not on the front. Earlier when the text did appear on the back it was flipped so could only be read backwards from right to left. We can solve both of these things with one piece of code. 
+
+![The heading and paragraph flipped backwards.](images/backwards-text.png)
 
 --- task ---
 
-Add the `flipme` class to the <div> tag around the heading and paragraph. This will rotate the text 180 degrees so it is flipped to the back face and now can be read correctly. 
+Add the `flipme` class to the `<div>` tag around the heading and paragraph. This will rotate the text 180 degrees so it is flipped to the back face and now can be read correctly. 
  
 --- code ---
 ---
