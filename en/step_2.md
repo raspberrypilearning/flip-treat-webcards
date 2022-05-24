@@ -5,7 +5,7 @@
 In this step you will create an infocard for a tasty treat with an image, heading and text.
 </div>
 <div>
-<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="300" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="400" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -17,7 +17,7 @@ Open the [Flip treat webcards starter project](http://rpf.io/flip-new){:target="
 
 --- task ---
 
-Add a `<section>` to the `<main>` part of your page, give it the `wrap` class:
+Add a `<section>` to the `<main>` part of your page, give it the `wrap` class to make your website responsive:
 
 --- code ---
 ---
@@ -38,9 +38,15 @@ line_highlights: 28-30
 
 --- /task ---
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Graphic designers**</span> are people that create engaging physical or digital visual content. Some examples of graphic desgin work include comapny logos, product packaging and website banner design. Our graphic designer Kate has made some images of treats from around the world for you to use in your project. 
+
+![A collage of treats images for use in the project](images/treats.png)
+</p>
+
 --- task ---
 
-Create a `<div>` that contains an image:
+Create a `<div>` that contains an image. The first image is `LapisSarawak01.png` a sweet treat from Malaysia:
 
 --- code ---
 ---
@@ -63,7 +69,7 @@ line_highlights: 29-31
 
 --- task ---
 
-Add another `<div>` with a heading and text:
+Add another `<div>` with a heading and short paragraph about Lapis Sarawak:
 
 --- code ---
 ---
@@ -90,10 +96,10 @@ line_highlights: 33-36
 
 --- task ---
 
-**Test:** View your webpage. You should be able to see an image of a Lapis Sarawak (a sweet treat from Malaysia) and your text describing it.
+**Test:** View your webpage. You should be able to see an image of a Lapis Sarawak and your text describing it.
 
 <div>
-<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="300" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="400" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /task ---
