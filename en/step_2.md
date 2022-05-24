@@ -48,6 +48,8 @@ line_highlights: 28-30
 
 Create a `<div>` that contains an image. The first image is `LapisSarawak01.png` a sweet treat from Malaysia:
 
+![A cartoon style graphic of Lapis Sarawak, a colourful, geometric cake.](images/LapisSarawak02.png)
+
 --- code ---
 ---
 language: html
@@ -70,6 +72,9 @@ line_highlights: 29-31
 --- task ---
 
 Add another `<div>` with a heading and short paragraph about Lapis Sarawak:
+
+Heading: `Lapis Sarawak` 
+Paragraph: `A cake baked in layers to make colourful patterns.`
 
 --- code ---
 ---
