@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will create a card with an image on the front and text on the back. The front and back will both appear on the page until you add a flip animation in the next step.
+In this step you will create an infocard for a tasty treat with an image, heading and text.
 </div>
 <div>
 <iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="300" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -40,7 +40,7 @@ line_highlights: 28-30
 
 --- task ---
 
-Use a `<div>` to create a card front with an image:
+Create a `<div>` that contains an image:
 
 --- code ---
 ---
@@ -63,7 +63,7 @@ line_highlights: 29-31
 
 --- task ---
 
-Add another `<div>` with the content for the back of the card:
+Add another `<div>` with a heading and text:
 
 --- code ---
 ---

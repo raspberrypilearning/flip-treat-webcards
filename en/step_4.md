@@ -17,8 +17,6 @@ Another step of tasks to complete.
 
 --- task ---
 
---- task ---
-
 Add the `gradient1` class to the card front and the `gradient2` class to the back of the card. 
 
 --- /task ---
@@ -52,4 +50,4 @@ line_highlights: 33-36
 --- /code ---
 
 --- /task ---
---- save ---
+
