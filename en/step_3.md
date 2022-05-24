@@ -2,14 +2,14 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will make your card flippable with content on the front and back. 
+In this step you will make a card flippable with content on the front and back. 
+</div>
+</div>
+<iframe src="https://trinket.io/embed/html/0865813006?outputOnly=true" width="400" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
+</div>
 
-</div>
-<iframe src="https://trinket.io/embed/html/0865813006?outputOnly=true" width="300" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</div>
-</div>
-
-You will create one flippable card that will be duplicated to create more cards. Use <div></div> tags to structure your code and seperate the main parts of the card:
+You will use <div></div> tags to structure your code and seperate the main parts of the card:
 
 + The flip card
 + The viewable content
@@ -199,10 +199,8 @@ line_highlights: 34
 
 **Test:** Hover over (or tap) the card on your webpage to see your flip card.
 
-</div>
-<iframe src="https://trinket.io/embed/html/0865813006?outputOnly=true" width="300" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</div>
-</div>
+<iframe src="https://trinket.io/embed/html/0865813006?outputOnly=true" width="400" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 --- /task ---
 
