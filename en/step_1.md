@@ -21,7 +21,7 @@ What happens when you hover over a card?
 
 Can you find the background gradients and fancy font?
 
-<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="650" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="700" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 --- /no-print ---
