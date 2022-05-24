@@ -1,29 +1,25 @@
 ## Introduction
 
-In this project, <mark> short project description </mark>
-
-<mark>Boxout (wherever wanted/needed) </mark>
+In this project, you will create a set of flip cards with treats from around the world. The cards flip over when you hover over them or tap them. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Term**</span> description of term or interesting phrase.
+<span style="color: #0faeb0">**Flip cards**</span> add interactivity to a web page. They also allow you to provide additional information in a small space or hide information that shouldn't be immediately visible. Some common examples of animated flip cards are: revision cards, business cards, social media contact cards, and product cards. 
 </p>
 
-<mark>Objectives in language that learners will understand</mark>
-
 You will:
-+ 
-+ 
-+ 
++ Use CSS animations to create a **card that flips over** when interacted with
++ Apply a **gradient** background using CSS
++ Add and use a font from **Google Fonts**
 
 --- no-print ---
 --- task ---
 ### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Description of what to do or think about when looking at the example.
+Explore these flip treats webcards. What happens when you hover over a card? Can you find the background gradients and fancy font?
 </div>
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/485673032/?autostart=false" frameborder="0"></iframe>
+<div>
+<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 --- /task ---
