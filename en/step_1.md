@@ -14,18 +14,15 @@ You will:
 --- no-print ---
 --- task ---
 ### Try it
-<div style="display: flex; flex-wrap: wrap">
-<div style="flex-basis: 175px; flex-grow: 1">  
+
 Explore these flip treats webcards. 
 
 What happens when you hover over a card? 
 
 Can you find the background gradients and fancy font?
-</div>
-<div>
-<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="500" height="700" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
-</div>
-</div>
+
+<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="650" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 --- /task ---
 --- /no-print ---
 
