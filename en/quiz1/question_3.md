@@ -13,7 +13,7 @@ You have found a fun font from Google fonts for a web page you are designing. To
 
   --- feedback ---
 
-  Not quite. 
+  Not quite. You do need a `<link>` element to link to the font, but that's not all. 
 
   --- /feedback ---
 
@@ -21,7 +21,7 @@ You have found a fun font from Google fonts for a web page you are designing. To
 
   --- feedback ---
 
-  Not quite. 
+  Not quite. You do need to use the `font-family` property in your CSS, but that's not all. 
 
   --- /feedback ---
 
