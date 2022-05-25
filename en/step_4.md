@@ -22,7 +22,7 @@ Gradients will be used to make your card stand out on the page.
 
 Add the `gradient1` class to the `<div>` that displays the image. 
 
-The `gradient 1` class uses a linear gradient transitioning from one colour at the top to another colour at the bottom. 
+The `gradient1` class uses a linear gradient transitioning from one colour at the top to another colour at the bottom. 
 
 ![Examples of gradient1 in a square transitioning from one colour at the top to another colour at the bottom.](images/gradient1.png)
 
@@ -58,7 +58,7 @@ line_highlights: 31
 
 Add the `gradient2` class to the `<div>` that displays the heading and paragraph. 
 
-The `gradient 2` class uses a linear gradient transitioning diagonally from one colour at the top to another colour at the bottom right. 
+The `gradient2` class uses a linear gradient transitioning diagonally from one colour at the top to another colour at the bottom right. 
 
 ![Examples of gradient2 in a square transitioning from one colour at the top to another colour at the bottom right.](images/gradient2.png)
 
@@ -68,7 +68,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 28
-line_highlights: 34
+line_highlights: 35
 ---
     <section class="wrap">
         <div class="card">
