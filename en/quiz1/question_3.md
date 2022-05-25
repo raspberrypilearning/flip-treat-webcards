@@ -11,8 +11,9 @@ You have found a fun font from Google fonts for a web page you are designing. To
 
 - ( ) HTML
 
-
   --- feedback ---
+
+  Not quite. 
 
   --- /feedback ---
 
@@ -21,12 +22,15 @@ You have found a fun font from Google fonts for a web page you are designing. To
 
   --- feedback ---
 
+  Not quite. 
+
   --- /feedback ---
 
 - (x) Both
 
-
   --- feedback ---
+
+  That's correct. Wh
 
   --- /feedback ---
 

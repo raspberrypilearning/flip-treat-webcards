@@ -16,11 +16,12 @@ legend: Question 1 of 3
 
 In this project, you made cards that flip over. The flipme class rotates an HTML element when the page is loaded. 
 
+--- code ---
 ---
 language: html
-filename: index.html
-line_numbers: false
+filename: index.htmlline_numbers: false
 ---
+
 .flipme {
   transform: rotateY(180deg);
 }
