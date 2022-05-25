@@ -140,7 +140,11 @@ line_highlights: 31, 35
 
 The text on the card is vertically aligned to the top. 
 
+![The text side of the card with text aligned to the top.](images/ytop.png)
+
 Add the `ycenter` class to align the text in the centre along the `y` axis. 
+
+![The text side of the card with text aligned to the center verically.](images/ycenter.png)
 
 <mark>Add Mr C's animation here </mark>
 
