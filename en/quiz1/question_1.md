@@ -19,7 +19,8 @@ In this project, you made cards that flip over. The flipme class rotates an HTML
 --- code ---
 ---
 language: html
-filename: index.htmlline_numbers: false
+filename: index.html
+line_numbers: false
 ---
 
 .flipme {
