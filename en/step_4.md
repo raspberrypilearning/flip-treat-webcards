@@ -20,13 +20,12 @@ Gradients will be used to make your card stand out on the page.
 
 --- task ---
 
-Add the `gradient1` class to the `<div>` that displays the image. The `gradient 1` class uses a linear gradient transitioning from one colour at the top to another colour at the bottom. 
+Add the `gradient1` class to the `<div>` that displays the image. 
+
+The `gradient 1` class uses a linear gradient transitioning from one colour at the top to another colour at the bottom. 
 
 ![Examples of gradient1 in a square transitioning from one colour at the top to another colour at the bottom.](images/gradient1.png)
 
---- /task ---
-
---- task ---
 
 --- code ---
 ---
@@ -34,7 +33,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 28
-line_highlights: 31, 34
+line_highlights: 31
 ---
     <section class="wrap">
         <div class="card">
@@ -57,13 +56,11 @@ line_highlights: 31, 34
 
 --- task ---
 
-Add the `gradient2` class to the `<div>` that displays the heading and paragraph. The `gradient 2` class uses a linear gradient transitioning diagonally from one colour at the top to another colour at the bottom right. 
+Add the `gradient2` class to the `<div>` that displays the heading and paragraph. 
+
+The `gradient 2` class uses a linear gradient transitioning diagonally from one colour at the top to another colour at the bottom right. 
 
 ![Examples of gradient2 in a square transitioning from one colour at the top to another colour at the bottom right.](images/gradient2.png)
-
---- /task ---
-
---- task ---
 
 --- code ---
 ---
@@ -71,7 +68,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 28
-line_highlights: 31, 34
+line_highlights: 34
 ---
     <section class="wrap">
         <div class="card">
@@ -80,7 +77,7 @@ line_highlights: 31, 34
               <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
             </div>
 
-            <div class="card-face flipme">
+            <div class="card-face flipme gradient2">
               <h2>Lapis Sarawak</h2>
               <p>A cake baked in layers to make colourful patterns.</p>
             </div>
