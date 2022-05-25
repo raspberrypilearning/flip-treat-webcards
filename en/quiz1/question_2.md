@@ -5,37 +5,39 @@
 legend: Question 2 of 3
 ---
 
-You made Pico say hello in a speech bubble.
-
-```blocks3
-say [Hello!] for [2] secs
-```
-
-Where would you go to find this block?
+ Which of the following is the best description of a **gradient**?
 
 --- choices ---
 
-- (x) 
+- ( ) A transparent effect
 
   --- feedback ---
+
+  Not quite. You use a transparent effect when you want to be able to see through an HTML element. 
 
   --- /feedback ---
 
-- ( ) 
+- ( ) A kind of font
 
   --- feedback ---
+
+  Not quite. A gradient is a kind of visual effect. 
 
   --- /feedback ---
 
-- ( ) 
+- (x) A gradual change between one colour and another
 
   --- feedback ---
+
+  That's correct! A gradient is a gradual change between colours in a particular direction. 
 
   --- /feedback ---
 
-- ( ) 
+- ( ) Rounded corners on an HTML element
 
   --- feedback ---
+
+Not quite. You use a `border-ra
 
   --- /feedback ---
 
