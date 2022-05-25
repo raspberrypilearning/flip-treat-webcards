@@ -5,7 +5,7 @@
 In this step you will create an infocard for a tasty treat with an image, heading and text.
 </div>
 <div>
-<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="400" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="300" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 
