@@ -37,7 +37,7 @@ legend: Question 2 of 3
 
   --- feedback ---
 
-Not quite. You use a `border-ra
+Not quite. You use a `border-radius` to create rounded corners, not a gradient.
 
   --- /feedback ---
 
