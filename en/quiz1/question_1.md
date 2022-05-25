@@ -26,7 +26,7 @@ filename: index.htmlline_numbers: false
   transform: rotateY(180deg);
 }
 
---- code ---
+--- /code ---
 
 Should the `flipme` class be applied to:
 
