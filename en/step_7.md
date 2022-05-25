@@ -27,6 +27,8 @@ Use your skills from [Anime expressions](http://rpf.io/anime-expressions){:targe
 
 --- task ---
 
+<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 To add another card, copy the completed card code below and paste it into `index.html` below your first card:
 
 --- code ---
@@ -336,7 +338,7 @@ TreatDescription:
 
 --- /task ---
 
-<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
 
 --- collapse ---
 

@@ -4,7 +4,9 @@
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
 In this step you will add colour gradients, rounded corners and vertical centering to your cards. 
 </div>
+<div>
 <iframe src="https://trinket.io/embed/html/d885c71711?outputOnly=true" width="400" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">

@@ -19,7 +19,6 @@ You have found a fun font from Google fonts for a web page you are designing. To
 
 - ( ) CSS
 
-
   --- feedback ---
 
   Not quite. 
