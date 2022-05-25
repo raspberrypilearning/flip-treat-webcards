@@ -99,7 +99,7 @@ line_highlights: 35
 
 --- task ---
 
-Add the `rounded` class to each of your card faces to add rounded corners. 
+Add the `rounded` class to each of your card faces to add rounded corners to your card. 
 
 --- code ---
 ---
@@ -107,7 +107,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 28
-line_highlights: 31, 34
+line_highlights: 31, 35
 ---
     <section class="wrap">
         <div class="card">
@@ -138,9 +138,9 @@ line_highlights: 31, 34
 
 --- task ---
 
-Add the `ycenter` class to the second face that contains the text.
+The text on the card is vertically aligned to the top. 
 
-This will align the text in the centre along the `y` axis. 
+Add the `ycenter` class to align the text in the centre along the `y` axis. 
 
 <mark>Add Mr C's animation here </mark>
 
@@ -150,7 +150,7 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 28
-line_highlights: 34
+line_highlights: 35
 ---
     <section class="wrap">
         <div class="card">
@@ -175,7 +175,7 @@ line_highlights: 34
 
 **Test:** Hover over (or tap) the card in your webpage to check that the text on the second face has been aligned in the centre of the `y` axis. 
 
-<iframe src="https://trinket.io/embed/html/8d3a67a764?outputOnly=true" width="400" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/d885c71711?outputOnly=true" width="400" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 
