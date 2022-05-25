@@ -21,7 +21,7 @@ Explore these flip treats webcards. What happens when you hover over a card?
 
 Can you find the background gradients and fancy font?
 
-<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="700" height="510" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="450" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 
