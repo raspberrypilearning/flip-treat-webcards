@@ -5,16 +5,16 @@
 In this step you will make a card flippable with content on the front and back. 
 </div>
 <div>
-<iframe src="https://trinket.io/embed/html/0865813006?outputOnly=true" width="300" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/0865813006?outputOnly=true" width="400" height="300" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 
 You will use `<div></div>` tags to structure your code and seperate the main parts of the card:
 
 + The flip card
-+ The viewable content
-+ The front card face
-+ The back card face
+  + The viewable content
+    + The front card face
+    + The back card face
 
 --- task ---
 
