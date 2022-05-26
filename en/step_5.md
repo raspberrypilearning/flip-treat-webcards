@@ -24,9 +24,9 @@ Open [fonts.google.com](https://fonts.google.com/){:target="_blank"}. It will op
 
 --- task ---
 
-Type in some sample text in the **sentence** box. The example uses our treat name `Lapsis Sarawack`.
+Type in some sample text in the **sentence** box. The example uses our treat name `Lapis Sarawack`.
 
-![A screenshot of the Google fonts search page. The words, Lapsis Sarawack have been placed in the sentence box.](images/custom.png)
+![A screenshot of the Google fonts search page. The words, Lapis Sarawack have been placed in the sentence box.](images/custom.png)
 
 **Note** how the examples below now show your sample text. You can see how your words will look in all of the fonts available. 
 
