@@ -1,6 +1,9 @@
 ## Upgrade your project
 
-If you have time, you can add more cards to your project. 
+If you have time, you can add more cards to your project, customise the animation and colours, or add a header and footer.
+
+### Add more cards
+
 
 --- task ---
 
@@ -313,6 +316,8 @@ title: Zarda
 
 --- /task ---
 
+### Customise the animation, fonts and colours
+
 --- task ---
 
 Customise the styling of your card in `style.css`. You could:
@@ -329,6 +334,8 @@ Customise the styling of your card in `style.css`. You could:
 + Import a new fancy font to the `index.html` <head> tag and update the `--title-font` and `--body-font` classes.
 
 --- /task ---
+
+### Build your webpage
 
 --- task ---
 

@@ -5,7 +5,7 @@
 In this step you will create an infocard for a tasty treat with an image, heading and text.
 </div>
 <div>
-<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="300" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="400" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -46,7 +46,7 @@ line_highlights: 28-30
 
 --- task ---
 
-Create a `<div>` that contains an image. The first image is `LapisSarawak01.png` a sweet treat from Malaysia:
+Create a `<div>` that contains an image. The first image is `LapisSarawak02.png` a sweet treat from Malaysia:
 
 ![A cartoon style graphic of Lapis Sarawak, a colourful, geometric cake.](images/LapisSarawak02.png)
 
@@ -104,7 +104,7 @@ line_highlights: 33-36
 **Test:** View your webpage. You should be able to see an image of a Lapis Sarawak and your text describing it.
 
 <div>
-<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="400" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="400" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /task ---
