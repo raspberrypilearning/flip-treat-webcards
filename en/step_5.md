@@ -10,8 +10,9 @@ You are now going to use Google's online font library to import a decorative fon
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Web designers <span style="color: #0faeb0">**import fonts**</span> 
-</p>
+Web designers need to consider how a website looks and how it reflects the brand of the company, product or person that they are designing for. Standard web safe fonts are recommended for the majority of text on a webpage but when a designer wants to create an impact with their designs, a more decorative font can be used. Designers can import<span style="color: #0faeb0">**web fonts**</span> from an online font library to make their websites stand out.</p>
+
+[[[web-fonts]]]
 
 --- task ---
 
