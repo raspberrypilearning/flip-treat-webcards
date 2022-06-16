@@ -99,7 +99,80 @@ line_highlights: 35
 
 --- task ---
 
-Add the `rounded` class to each of your card faces to add rounded corners to your card. 
+Click on the `style.css` file and find the colour palette near the top of the page.
+
+**Choose:**  The colour gradients use variables from the colour palette. You can choose new colours for:
+    + `secondary` and `detail` variables to change the front card face
+    + `tertiary` and `detail2` variables to change the back card face
+
+**Tip:** You might also need to change `onsecondary` and `ontertiary` colours so your text stands out on the new colour gradients. 
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 1
+line_highlights: 5-6, 9-10, 12-13
+---
+  /* Set up colour palette and fonts using variables */
+
+:root {
+  --primary: #ffffff;
+  --secondary: #aa076b;
+  --tertiary: #43cea2; /*#3a96dd;*/
+  --page: #ffffff;
+  --onprimary: #664300;
+  --onsecondary: #664300;
+  --ontertiary: #ffffff;
+  --onpage: #000000;
+  --detail: #ffb88c;
+  --detail2: #185a9d;
+
+--- /code ---
+
+--- /task ---
+
+--- task ---
+
+Find the `gradient1` and `gradient2` classes.
+
+**Choose:** update the gradient to the direction you like best try `top`, `right` or `bottom left`.
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 240
+line_highlights: 242, 251
+---
+  .gradient1 {
+  background-image: linear-gradient(
+    to bottom,
+    var(--secondary),
+    var(--detail)
+  );
+  color: var(--onsecondary);
+}
+
+.gradient2 {
+  background-image: linear-gradient(
+    to bottom right,
+    var(--tertiary),
+    var(--detail2)
+  );
+  color: var(--ontertiary);
+}
+
+--- /code ---
+
+--- /task ---
+
+
+--- task ---
+
+Click on `index.html`. Add the `rounded` class to each of your card faces to add rounded corners to your card. 
 
 --- code ---
 ---

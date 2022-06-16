@@ -319,25 +319,6 @@ title: Zarda
 
 --- /task ---
 
-### Customise the animation, fonts and colours
-
---- task ---
-
-Customise the styling of your card in `style.css`. You could:
-
-+ Alter the animation settings in the `card-content` class:
-    + Change the seconds in the `transition: transform 1s;` line of code.
-    + Change the persective size in the `perspective: 60rem;` line of code.
-
-+ Amend the colour gradient 
-    + Choose new colours for `secondary` and `detail` variables to change the front card face
-    + Choose new colours for `tertiary` and `detail2` variables to change the back card face
-    + Change the gradient direction in the `gradient1` and `gradient2` classes (try `top` or `bottom left`)
-
-+ Import a new fancy font to the `index.html` <head> tag and update the `--title-font` and `--body-font` classes.
-
---- /task ---
-
 ### Build your webpage
 
 --- task ---

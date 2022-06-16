@@ -137,5 +137,14 @@ line_highlights: 16-17
 
 --- /task ---
 
+--- task ---
+
+**Choose:** You can choose your own font by going back to [fonts.google.com](https://fonts.google.com/){:target="_blank"}.
+
+**Remove** the Bangers style in Google Fonts by click on `remove this style` before selecting your new font. 
+
+--- /task ---
+
+
 
 
