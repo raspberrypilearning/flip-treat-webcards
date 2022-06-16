@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, you will create a set of flip cards with treats from around the world. The cards flip over when you hover over them or tap them. 
+In this project, you will create a flip card with a treat from around the world. The card flips over when you hover over or tap it. 
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Flip cards**</span> add interactivity to a web page. They also allow you to provide additional information in a small space or hide information that shouldn't be immediately visible. Some common examples of animated flip cards are: revision cards, business cards, social media contact cards, and product cards. 
@@ -17,11 +17,11 @@ You will:
 
 ### Try it
 
-Explore these flip treats webcards. What happens when you hover over a card? 
+Explore this flippable web card. What happens when you hover over it? 
 
 Can you find the background gradients and fancy font?
 
-<iframe src="https://trinket.io/embed/html/40c676102d?outputOnly=true" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/40c676102d?outputOnly=true" width="550" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 
