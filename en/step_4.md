@@ -256,5 +256,41 @@ line_highlights: 35
 
 --- /task ---
 
+--- task ---
+
+Add a shadow effect to both sides of your card using the `shadow` class.
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 28
+line_highlights: 32, 35
+---
+    <main>
+       <section class="wrap">
+         <div class="card">
+            <div class="card-content">
+              <div class="card-face gradient1 rounded shadow">
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              </div>
+              <div class="card-face flipme gradient2 rounded ycenter shadow">
+                <h2>Lapis Sarawak</h2>
+                <p>A cake baked in layers to make colourful patterns.</p>
+              </div>
+            </div>
+        </div>
+      </section>
+
+--- /code ---
+
+--- /task ---
+
+**Test:** Hover over (or tap) the card in your webpage to check that the card now has a shadow effect.
+
+<iframe src="https://trinket.io/embed/html/786689aa73?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+
+--- /task ---
 
 
