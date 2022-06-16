@@ -4,6 +4,7 @@ If you have time, you can add more cards to your project, customise the animatio
 
 ### Add more cards
 
+<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- task ---
 
@@ -314,24 +315,7 @@ title: Zarda
 
 --- /collapse ---
 
---- /task ---
-
-### Customise the animation, fonts and colours
-
---- task ---
-
-Customise the styling of your card in `style.css`. You could:
-
-+ Alter the animation settings in the `card-content` class:
-    + Change the seconds in the `transition: transform 1s;` line of code.
-    + Change the persective size in the `perspective: 60rem;` line of code.
-
-+ Amend the colour gradient 
-    + Choose new colours for `secondary` and `detail` variables to change the front card face
-    + Choose new colours for `tertiary` and `detail2` variables to change the back card face
-    + Change the gradient direction in the `gradient1` and `gradient2` classes (try `top` or `bottom left`)
-
-+ Import a new fancy font to the `index.html` <head> tag and update the `--title-font` and `--body-font` classes.
+<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 --- /task ---
 

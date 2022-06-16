@@ -206,4 +206,33 @@ line_highlights: 34
 
 --- /task ---
 
---- save ---
+--- task ---
+
+**Choose:** Go to the `style.css` file and change the settings in the `card-content` class to use the animation effect you like best. 
+
+You could:
+  + Change the seconds in the `transition: transform 1s;` line of code.
+  + Change the perspective size in the `perspective: 60rem;` line of code.
+
+--- code ---
+---
+language: css
+filename: style.css
+line_numbers: true
+line_number_start: 264
+line_highlights: 269, 271
+---
+  .card-content {
+  position: relative;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+  transition: transform 1s;
+  transform-style: preserve-3d;
+  perspective: 60rem;
+}
+
+--- /code ---
+
+--- /task ---
+

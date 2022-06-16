@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-In this project, you made cards that flip over. The flipme class rotates an HTML element when the page is loaded. 
+In this project, you made cards that flip over. The `flipme` class rotates an HTML element when the page is loaded. 
 
 --- code ---
 ---
@@ -29,7 +29,7 @@ line_numbers: false
 
 --- /code ---
 
-Should the `flipme` class be applied to:
+Where should the `flipme` class be applied?
 
 --- choices ---
 
@@ -53,7 +53,7 @@ Should the `flipme` class be applied to:
 
   --- feedback ---
 
-Not quite. This would mean that the front and back of the card were flipped over when you load the page. 
+  Not quite. This would mean that the front and back of the card were flipped over when you load the page. 
 
   --- /feedback ---
 
