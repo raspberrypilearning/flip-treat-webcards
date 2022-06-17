@@ -217,9 +217,7 @@ The text on the card is vertically aligned to the top.
 
 Add the `ycenter` class to align the text in the centre along the `y` axis. 
 
-![The text side of the card with text aligned to the center verically.](images/ycenter.png)
-
-<mark>Add Mr C's animation here </mark>
+![The text side of the card with text aligned to the center vertically.](images/ycenter.png)
 
 --- code ---
 ---
@@ -286,6 +284,8 @@ line_highlights: 32, 35
 --- /code ---
 
 --- /task ---
+
+--- task ---
 
 **Test:** Hover over (or tap) the card in your webpage to check that the card now has a shadow effect.
 
