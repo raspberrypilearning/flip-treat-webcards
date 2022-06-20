@@ -19,7 +19,9 @@ Open the [Flip treat webcards starter project](https://trinket.io/library/trinke
 
 The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. 
   
-The `<title>` can be found in the `<head>` element at the top of your `index.html` file. Change your title to 'Treat flip cards':
+The `<title>` can be found in the `<head>` element at the top of your `index.html` file. 
+
+Change your title to 'Treat flip cards':
 
 --- code ---
 ---
