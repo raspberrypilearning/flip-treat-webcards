@@ -17,6 +17,38 @@ Open the [Flip treat webcards starter project](https://trinket.io/library/trinke
 
 --- task ---
 
+The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. 
+  
+The `<title>` can be found in the `<head>` element at the top of your `index.html` file. Change your title to 'Treat flip cards':
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: true
+line_number_start: 1
+line_highlights: 11
+---
+<!DOCTYPE html>
+<html lang="en">
+  <!-- This part is for extra information the browser needs to load the page correctly-->
+  <head>
+    <meta charset="utf-8" />
+
+    <!-- Don't shrink the page on mobile -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Appears on the web browser tab and search results -->
+    <title>Treat flip cards</title>
+
+--- /code ---
+  
+**Tip:** Click on the small triangle next to the <head> tag to collapse the <head>. Collapsing parts of the code you don't need to focus on helps to make your code easier to read.
+
+--- /task ---
+    
+--- task ---
+
 Add a `<section>` to the `<main>` part of your page, give it the `wrap` class to make your website responsive:
 
 --- code ---
