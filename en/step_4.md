@@ -103,18 +103,14 @@ Click on the `default.css` file and find the colour palette near the top of the 
 
 **Choose:**  The colour gradients use variables from the colour palette. Choose the gradients you like best from these options:
 
-![A gradient. Dark blue in the top left changes to dark pink in the bottom right.](images/1.png)
-1 #7b4397 → #dc2430
-![A gradient. Turquoise in the top left changes to dark blue in the bottom right.](images/2.png)
-2 #43cea2 → #185a9d
-![A gradient. Light grey in the top left changes to dark grey in the bottom right.](images/3.png)
-3 #bdc3c7 → #2c3e50
-![A gradient. Dark green in the top left changes to light green in the bottom right.](images/4.png)
-4 #56ab2f → #a8e063
-![A gradient. Pale yellow in the top left changes to pale pink in the bottom right.](images/5.png)
-5 #eecda3 → #ef629f
-![A gradient. Deep blue in the top left changes to a slightly lighter blue in the bottom right.](images/6.png)
-6 #000428 → #004e92
+![The six options for the different gradients.](images/gradient-options.png)
+
+1.  #7b4397 → #dc2430
+2.  #43cea2 → #185a9d
+3.  #bdc3c7 → #2c3e50
+4.  #56ab2f → #a8e063
+5.  #eecda3 → #ef629f
+6.  #000428 → #004e92
 
 **Update** the variables to see the card faces in your new gradient:
     + The front card face uses `secondary` and `detail` variables
