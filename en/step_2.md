@@ -45,13 +45,13 @@ line_highlights: 11
 
 --- /code ---
 
+--- /task ---
+
 --- task ---
 
 Click on the small triangle next to the <head> tag to collapse the <head>. 
 
 Collapsing parts of the code you don't need to focus on helps to make your code easier to read.
-
---- /task ---
 
 --- /task ---
     
