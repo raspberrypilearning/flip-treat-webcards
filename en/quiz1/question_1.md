@@ -18,8 +18,8 @@ In this project, you made cards that flip over. The `flipme` class rotates an HT
 
 --- code ---
 ---
-language: html
-filename: index.html
+language: css
+filename: animation.css
 line_numbers: false
 ---
 

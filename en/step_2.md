@@ -17,11 +17,11 @@ Open the [Flip treat webcards starter project](https://trinket.io/library/trinke
 
 --- task ---
 
-The `<title>` tag is shown in the title bar of your web browser and should be relevant to your page. 
+The `<title>` tag within your code is used to display text in title bar of your web browser and should be relevant to your page. 
   
 The `<title>` can be found in the `<head>` element at the top of your `index.html` file. 
 
-Change your title to 'Treat flip cards':
+**Change** your title to 'Treat flip cards':
 
 --- code ---
 ---
@@ -44,8 +44,14 @@ line_highlights: 11
     <title>Treat flip cards</title>
 
 --- /code ---
-  
-**Tip:** Click on the small triangle next to the <head> tag to collapse the <head>. Collapsing parts of the code you don't need to focus on helps to make your code easier to read.
+
+--- task ---
+
+Click on the small triangle next to the <head> tag to collapse the <head>. 
+
+Collapsing parts of the code you don't need to focus on helps to make your code easier to read.
+
+--- /task ---
 
 --- /task ---
     
@@ -73,10 +79,12 @@ line_highlights: 28-30
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Graphic designers**</span> are people that create engaging physical or digital visual content. Some examples of graphic desgin work include comapny logos, product packaging and website banner design. Our graphic designer Kate has made some images of treats from around the world for you to use in your project. 
+<span style="color: #0faeb0">**Graphic designers**</span> are people that create engaging physical or digital visual content. Some examples of graphic design work include company logos, product packaging and website banner design. Our graphic designer Kate has made some images of treats from around the world for you to use in your project. 
 
 ![A collage of treats images for use in the project](images/treats.png)
 </p>
+
+The `<div>` element is used to group other elements. They are used when there isn't a more appropriate tag such as `<section>` and `<blockquote>`.
 
 --- task ---
 
