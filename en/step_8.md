@@ -22,4 +22,4 @@ Take a look at the different styles that have been applied to the elements on th
 
 --- /no-print ---
 
-If you want to have more fun exploring HTML, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=html-css-javascript).
+
