@@ -24,9 +24,9 @@ Open [fonts.google.com](https://fonts.google.com/){:target="_blank"}. It will op
 
 --- task ---
 
-Type in some sample text in the **sentence** box. The example uses our treat name `Lapis Sarawack`.
+Type in some sample text in the **sentence** box. The example uses our treat name `Lapis Sarawak`.
 
-![A screenshot of the Google fonts search page. The words, Lapis Sarawack have been placed in the sentence box.](images/custom.png)
+![A screenshot of the Google fonts search page. The words, Lapis Sarawak have been placed in the sentence box.](images/custom.png)
 
 **Note** how the examples below now show your sample text. You can see how your words will look in all of the fonts available. 
 
@@ -74,6 +74,8 @@ Highlight the HTML text and right click and select copy (tap and hold) to copy t
 
 --- task ---
 
+Expand the `<head>` section of `index.html` if you have it collapsed. 
+
 Find the comment in your `index.html` document that says `<!-- Import fonts from Google -->`.
 
 Paste the HTML code that you have just copied below the comment.
@@ -107,14 +109,14 @@ Go back to the Google font library webpage and copy the CSS code. You only need 
 
 --- task ---
 
-Go to your `style.css` file and find the `header-font` and `title-font` variables. 
+Go to your `default.css` file and find the `header-font` and `title-font` variables. 
 
 **Replace** the current font `Verdana, sans-serif;` with your new one by deleting the text and pressing paste.
 
 --- code ---
 ---
 language: css
-filename: style.css
+filename: default.css
 line_numbers: true
 line_number_start: 15
 line_highlights: 16-17

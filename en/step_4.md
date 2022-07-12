@@ -99,18 +99,35 @@ line_highlights: 35
 
 --- task ---
 
-Click on the `style.css` file and find the colour palette near the top of the page.
+Click on the `default.css` file and find the colour palette near the top of the page.
 
-**Choose:**  The colour gradients use variables from the colour palette. You can choose new colours for:
-    + `secondary` and `detail` variables to change the front card face
-    + `tertiary` and `detail2` variables to change the back card face
+**Choose:**  The colour gradients use variables from the colour palette. Choose the gradients you like best from these options:
+
+![A gradient. Dark blue in the top left changes to dark pink in the bottom right.](images/1.png)
+1 #7b4397 → #dc2430
+![A gradient. Turquoise in the top left changes to dark blue in the bottom right.](images/2.png)
+2 #43cea2 → #185a9d
+![A gradient. Light grey in the top left changes to dark grey in the bottom right.](images/3.png)
+3 #bdc3c7 → #2c3e50
+![A gradient. Dark green in the top left changes to light green in the bottom right.](images/4.png)
+4 #56ab2f → #a8e063
+![A gradient. Pale yellow in the top left changes to pale pink in the bottom right.](images/5.png)
+5 #eecda3 → #ef629f
+![A gradient. Deep blue in the top left changes to a slightly lighter blue in the bottom right.](images/6.png)
+6 #000428 → #004e92
+
+**Update** the variables to see the card faces in your new gradient:
+    + The front card face uses `secondary` and `detail` variables
+    + The back card face uses `tertiary` and `detail2` variables 
+
+
 
 **Tip:** You might also need to change `onsecondary` and `ontertiary` colours so your text stands out on the new colour gradients. 
 
 --- code ---
 ---
 language: css
-filename: style.css
+filename: default.css
 line_numbers: true
 line_number_start: 1
 line_highlights: 5-6, 9-10, 12-13
@@ -120,7 +137,7 @@ line_highlights: 5-6, 9-10, 12-13
 :root {
   --primary: #ffffff;
   --secondary: #aa076b;
-  --tertiary: #43cea2; /*#3a96dd;*/
+  --tertiary: #43cea2; 
   --page: #ffffff;
   --onprimary: #664300;
   --onsecondary: #664300;
@@ -144,8 +161,8 @@ Find the `gradient1` and `gradient2` classes.
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 240
-line_highlights: 242, 251
+line_number_start: 243
+line_highlights: 245, 254
 ---
   .gradient1 {
   background-image: linear-gradient(

@@ -208,7 +208,7 @@ line_highlights: 34
 
 --- task ---
 
-**Choose:** Go to the `style.css` file and change the settings in the `card-content` class to use the animation effect you like best. 
+**Choose:** Go to the `style.css` file and change the settings in the `card-content` class to use the timing and 3D animation effect you like best. 
 
 You could:
   + Change the seconds in the `transition: transform 1s;` line of code.

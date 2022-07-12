@@ -19,7 +19,7 @@ You will:
 
 Explore this flippable web card. What happens when you hover over it? 
 
-Can you find the background gradients and fancy font?
+Do you notice the background gradients and the fancy font?
 
 <iframe src="https://trinket.io/embed/html/40c676102d?outputOnly=true" width="550" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
