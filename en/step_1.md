@@ -29,6 +29,6 @@ Did you notice the background gradients and the fancy font?
 
 --- print-only ---
 
-![Completed project](images/showcase_static.png)
+![alt=""](images/showcase_static.png)
 
 --- /print-only ---
