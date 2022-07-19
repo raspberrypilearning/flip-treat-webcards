@@ -21,7 +21,7 @@ The `<title>` tag within your code is used to display text in title bar of your 
   
 The `<title>` can be found in the `<head>` element at the top of your `index.html` file. 
 
-**Change** your title to 'Treat flip cards':
+**Change** your title to 'Treat flip cards'.
 
 --- code ---
 ---
@@ -57,7 +57,7 @@ You can collapse parts of the code you don't need to focus on to make your code 
     
 --- task ---
 
-Add a `<section>` to the `<main>` part of your page. Give the `<section>` a `wrap` class to make your website responsive:
+Add a `<section>` to the `<main>` part of your page. Give the `<section>` a `wrap` class to make your website responsive.
 
 --- code ---
 ---
@@ -88,7 +88,7 @@ The `<div>` element is used to group other elements. The `<div>` element is used
 
 --- task ---
 
-Create a `<div>` that contains an image. The first image is `LapisSarawak02.png`, a sweet treat from Malaysia:
+Create a `<div>` that contains an image. The first image is `LapisSarawak02.png`, a sweet treat from Malaysia.
 
 ![A cartoon style graphic of Lapis Sarawak, a colourful, geometric cake.](images/LapisSarawak02.png)
 
@@ -113,7 +113,7 @@ line_highlights: 29-31
 
 --- task ---
 
-Add another `<div>` with a heading and short paragraph about Lapis Sarawak:
+Add another `<div>` with a heading and short paragraph about Lapis Sarawak.
 
 Heading: `Lapis Sarawak` 
 Paragraph: `A cake baked in layers to make colourful patterns.`
