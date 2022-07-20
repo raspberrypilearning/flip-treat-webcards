@@ -114,8 +114,8 @@ Click on the `default.css` file and find the colour palette near the top of the 
 
 **Update** the variables to see the card faces in your new gradient:
 
-    + The front card face uses `secondary` and `detail` variables
-    + The back card face uses `tertiary` and `detail2` variables 
+ + The front card face uses `secondary` and `detail` variables
+ + The back card face uses `tertiary` and `detail2` variables 
 
 **Tip:** You might also need to change `onsecondary` and `ontertiary` colours so your text stands out on the new colour gradients. 
 
