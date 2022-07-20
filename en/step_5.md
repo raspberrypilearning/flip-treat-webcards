@@ -24,7 +24,7 @@ Open [fonts.google.com](https://fonts.google.com/){:target="_blank"}. The link w
 
 --- task ---
 
-Type some sample text in the **sentence** box. The example uses our treat name `Lapis Sarawak`.
+Type some sample text in the **sentence** box. The example uses the treat name in this project, `Lapis Sarawak`.
 
 ![The Google Fonts search page. The words 'Lapis Sarawak' have been entered in the sentence box.](images/custom.png)
 
@@ -56,7 +56,7 @@ Click on the Bangers card that has appeared in the search results.
 
 --- task ---
 
-Click on the `Select this style` link.
+Click on the 'Select this style' link.
 
 ![A screenshot highlights the 'Select this style' link.](images/select-style.png)
 
