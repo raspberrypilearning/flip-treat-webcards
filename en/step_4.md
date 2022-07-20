@@ -113,6 +113,7 @@ Click on the `default.css` file and find the colour palette near the top of the 
 6.  #000428 → #004e92
 
 **Update** the variables to see the card faces in your new gradient:
+
     + The front card face uses `secondary` and `detail` variables
     + The back card face uses `tertiary` and `detail2` variables 
 
