@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will add colour gradients, rounded corners and vertical centering to your cards. 
+In this step you will add colour gradients, rounded corners, and vertical centering to your cards. 
 </div>
 <div>
 <iframe src="https://trinket.io/embed/html/d885c71711?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -12,11 +12,11 @@ In this step you will add colour gradients, rounded corners and vertical centeri
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Colour gradients**</span> are a gradual change from one colour to another. Computers process how to display a smooth colour gradient by working out the positions and colour shades needed to go from the starting colour through to the end colour. 
 
-![4 examples of gradients in squares transitioning from one colour to another.](images/gradients.png)
+![Four examples of gradients in squares transitioning from one colour to another.](images/gradients.png)
 
 </p>
 
-Gradients will be used to make your card stand out on the page. 
+Gradients are used to make your card stand out on the page. 
 
 --- task ---
 
@@ -24,7 +24,7 @@ Add the `gradient1` class to the `<div>` that displays the image.
 
 The `gradient1` class uses a linear gradient transitioning from one colour at the top to another colour at the bottom. 
 
-![Examples of gradient1 in a square transitioning from one colour at the top to another colour at the bottom.](images/gradient1.png)
+![A square that transitions from a purple colour at the top, to an orange colour at the bottom.](images/gradient1.png)
 
 
 --- code ---
@@ -39,7 +39,7 @@ line_highlights: 31
         <div class="card">
           <div class="card-content">
             <div class="card-face gradient1">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
 
             <div class="card-face flipme">
@@ -58,7 +58,7 @@ line_highlights: 31
 
 Add the `gradient2` class to the `<div>` that displays the heading and paragraph. 
 
-The `gradient2` class uses a linear gradient transitioning diagonally from one colour at the top to another colour at the bottom right. 
+The `gradient2` class uses a linear gradient that transitions diagonally from one colour at the top to another colour at the bottom right. 
 
 ![Examples of gradient2 in a square transitioning from one colour at the top to another colour at the bottom right.](images/gradient2.png)
 
@@ -74,7 +74,7 @@ line_highlights: 35
         <div class="card">
           <div class="card-content">
             <div class="card-face gradient1">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
 
             <div class="card-face flipme gradient2">
@@ -103,7 +103,7 @@ Click on the `default.css` file and find the colour palette near the top of the 
 
 **Choose:**  The colour gradients use variables from the colour palette. Choose the gradients you like best from these options:
 
-![The six options for the different gradients.](images/gradient-options.png)
+![Six options for the different gradients.](images/gradient-options.png)
 
 1.  #7b4397 → #dc2430
 2.  #43cea2 → #185a9d
@@ -228,7 +228,7 @@ The text on the card is vertically aligned to the top.
 
 Add the `ycenter` class to align the text in the centre along the `y` axis. 
 
-![The text side of the card with text aligned to the center vertically.](images/ycenter.png)
+![The text side of the card with text aligned to the centre vertically.](images/ycenter.png)
 
 --- code ---
 ---
