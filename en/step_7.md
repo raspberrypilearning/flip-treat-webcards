@@ -87,7 +87,7 @@ title: Dango
 
 **ImageName:** Dango01.png or Dango02.png
 **TreatName:** Dango
-**TreatDescription:** A dumping made from rice flour and served on a skewer.
+**TreatDescription:** A dumpling made from rice flour and served on a skewer.
 
 --- /collapse ---
 
