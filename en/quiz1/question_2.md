@@ -17,11 +17,11 @@ legend: Question 2 of 3
 
   --- /feedback ---
 
-- ( ) A kind of font
+- ( ) A type of font
 
   --- feedback ---
 
-  Not quite. A gradient is a kind of visual effect. 
+  Not quite. A gradient is a type of visual effect. 
 
   --- /feedback ---
 
