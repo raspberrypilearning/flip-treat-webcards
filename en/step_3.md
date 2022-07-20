@@ -9,7 +9,7 @@ In this step you will make a card that flips with content on the front and back.
 </div>
 </div>
 
-Use `<div></div>` tags to structure your code and seperate the main parts of the card.:
+Use `<div></div>` tags to structure your code and separate the main parts of the card.:
 
 + The flip card
   + The viewable content
