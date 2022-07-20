@@ -9,7 +9,7 @@ In this step you will make a card that flips with content on the front and back.
 </div>
 </div>
 
-Use `<div></div>` tags to structure your code and separate the main parts of the card.
+Use `<div></div>` tags to structure your code and separate the main parts of the card:
 
 + The flip card
   + The viewable content
@@ -18,7 +18,7 @@ Use `<div></div>` tags to structure your code and separate the main parts of the
 
 --- task ---
 
-The `card` class has been created for you in `style.css` and sets the width, height, and border of the card. 
+The `card` class has been created for you in `style.css`. The `card` class sets the width, height, and border of the card. 
 
 Add `<div></div>` tags around your current Lapis Sarawak code with the CSS class `card`. 
 
@@ -49,7 +49,7 @@ line_highlights: 29, 37
 
 --- task ---
 
-The `card-content` class has been created for you in `style.css` and controls the timing, perspective, and 3D effect of the flip. 
+The `card-content` class has been created for you in `style.css`. The `card-content` class controls the timing, perspective, and 3D effect of the flip. 
 
 Add another set of `<div></div>` tags inside your card with the CSS class `card-content`. 
 
@@ -127,7 +127,7 @@ line_highlights: 31
 
 --- task ---
 
-Add the `card-face` class to the `<div>` tag around the heading and paragraph so they also hide when they are flipped to the back.
+Add the `card-face` class to the `<div>` tag around the heading and paragraph. This is to make the heading and paragraph also hide when they are flipped to the back.
  
 --- code ---
 ---
