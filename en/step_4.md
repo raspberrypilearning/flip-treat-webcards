@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will add colour gradients and rounded corners to your cards. You will also align the text so that it appears in the centre of the cards. 
+In this step you will add colour gradients and rounded corners to your card. You will also align the text so that it appears in the centre of the card. 
 </div>
 <div>
 <iframe src="https://trinket.io/embed/html/d885c71711?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -10,19 +10,19 @@ In this step you will add colour gradients and rounded corners to your cards. Yo
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Colour gradients**</span> are a gradual change from one colour to another. Computers process how to display a smooth colour gradient by working out the positions and colour shades needed to go from the starting colour through to the end colour. 
+<span style="color: #0faeb0">**Colour gradients**</span> are a gradual change from one colour to another. To process how to display a smooth colour gradient, computers work out the positions and colour shades needed to go from the starting colour through to the end colour. 
 
-![Four examples of gradients in squares transitioning from one colour to another.](images/gradients.png)
+![Four examples of colour gradients in squares that transition from one colour to another.](images/gradients.png)
 
 </p>
 
-Gradients are used to make your card stand out on the page. 
+Gradients are used to make your card attract the viewer's attention. 
 
 --- task ---
 
 Add the `gradient1` class to the `<div>` that displays the image. 
 
-The `gradient1` class uses a linear gradient transitioning from one colour at the top to another colour at the bottom. 
+The `gradient1` class uses a linear gradient that transitions from one colour at the top to another colour at the bottom. 
 
 ![A square that transitions from a purple colour at the top, to an orange colour at the bottom.](images/gradient1.png)
 
@@ -60,7 +60,7 @@ Add the `gradient2` class to the `<div>` that displays the heading and paragraph
 
 The `gradient2` class uses a linear gradient that transitions diagonally from one colour at the top to another colour at the bottom right. 
 
-![Examples of gradient2 in a square transitioning from one colour at the top to another colour at the bottom right.](images/gradient2.png)
+![Examples of gradient2 in a square transitioning from a green colour at the top to a blue colour at the bottom right.](images/gradient2.png)
 
 --- code ---
 ---
@@ -101,7 +101,7 @@ line_highlights: 35
 
 Click on the `default.css` file and find the colour palette near the top of the page.
 
-**Choose:** The colour gradients use variables from the colour palette. Choose the gradients you like best from these options:
+**Choose:** Colour gradients use variables from the colour palette. Choose the gradients you like the best from these options:
 
 ![Six options for the different gradients.](images/gradient-options.png)
 
@@ -112,7 +112,7 @@ Click on the `default.css` file and find the colour palette near the top of the 
 5.  #eecda3 → #ef629f
 6.  #000428 → #004e92
 
-**Update** the variables to see the card faces in your new gradient:
+**Update** the variables to see the front and back card faces in your new gradient:
 
  + The front card face uses `secondary` and `detail` variables
  + The back card face uses `tertiary` and `detail2` variables 
@@ -184,7 +184,7 @@ line_highlights: 245, 254
 
 --- task ---
 
-Click on `index.html`. Add the `rounded` class to each of your card faces to add rounded corners to your card. 
+Click on `index.html`. Add the `rounded` class to both of your card faces to add rounded corners to your card. 
 
 --- code ---
 ---
