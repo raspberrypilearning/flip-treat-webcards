@@ -1,6 +1,6 @@
 ## Reflection
 
-Well done, you have learned a lot! Now it's time to reflect - reflecting is an important part of learning because it helps make new connections in your brain.
+Well done, you have learned a lot! Now it's time to reflect &mdash; reflecting is an important part of learning because it helps make new connections in your brain.
 
 Answer the three questions below to reflect on what you've learned.
 
@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-In this project, you made cards that flip over. The `flipme` class rotates an HTML element when the page is loaded. 
+In this project, you made a card that flip over. The `flipme` class rotates an HTML element when the page is loaded. 
 
 --- code ---
 ---
@@ -45,7 +45,7 @@ Where should the `flipme` class be applied?
 
   --- feedback ---
 
-  That's correct. You need the back of the card to be rotated 180 degrees when the page is loaded so that when the full card is flipped, on hover or tap, the back will be rotated to face to the front. 
+  That's correct. You need the back of the card to be rotated 180 degrees when the page is loaded. This means that when the full card is flipped, on hover or tap, the back is rotated to face the front. 
 
   --- /feedback ---
 
