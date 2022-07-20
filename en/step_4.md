@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will add colour gradients, rounded corners, and vertical centering to your cards. 
+In this step you will add colour gradients and rounded corners to your cards. You will also align the text so that it appears in the centre of the cards. 
 </div>
 <div>
 <iframe src="https://trinket.io/embed/html/d885c71711?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -101,7 +101,7 @@ line_highlights: 35
 
 Click on the `default.css` file and find the colour palette near the top of the page.
 
-**Choose:**  The colour gradients use variables from the colour palette. Choose the gradients you like best from these options:
+**Choose:** The colour gradients use variables from the colour palette. Choose the gradients you like best from these options:
 
 ![Six options for the different gradients.](images/gradient-options.png)
 
@@ -149,7 +149,7 @@ line_highlights: 5-6, 9-10, 12-13
 
 Find the `gradient1` and `gradient2` classes.
 
-**Choose:** update the gradient to the direction you like best try `top`, `right` or `bottom left`.
+**Choose:** Update the gradient to the direction you like best. Try `top`, `right`, or `bottom left`.
 
 --- code ---
 ---
@@ -198,7 +198,7 @@ line_highlights: 31, 35
         <div class="card">
           <div class="card-content">
             <div class="card-face gradient1 rounded">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
 
             <div class="card-face flipme gradient2 rounded">
@@ -223,13 +223,13 @@ line_highlights: 31, 35
 
 --- task ---
 
-The text on the card is vertically aligned to the top. 
+The text on the card is aligned vertically to the top of the card. 
 
-![The text side of the card with text aligned to the top.](images/ytop.png)
+![alt=""](images/ytop.png)
 
 Add the `ycenter` class to align the text in the centre along the `y` axis. 
 
-![The text side of the card with text aligned to the centre vertically.](images/ycenter.png)
+![alt=""](images/ycenter.png)
 
 --- code ---
 ---
@@ -243,7 +243,7 @@ line_highlights: 35
         <div class="card">
           <div class="card-content">
             <div class="card-face gradient1 rounded">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
 
             <div class="card-face flipme gradient2 rounded ycenter">
@@ -260,7 +260,7 @@ line_highlights: 35
 
 --- task ---
 
-**Test:** Hover over (or tap) the card in your webpage to check that the text on the second face has been aligned in the centre of the `y` axis. 
+**Test:** Hover over (or tap) the card in your webpage to check that the text on the second face is aligned in the centre of the `y` axis. 
 
 <iframe src="https://trinket.io/embed/html/d885c71711?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -268,7 +268,7 @@ line_highlights: 35
 
 --- task ---
 
-Add a shadow effect to both sides of your card using the `shadow` class.
+Use the `shadow` class to add a shadow effect to both sides of your card.
 
 --- code ---
 ---
@@ -283,7 +283,7 @@ line_highlights: 32, 35
          <div class="card">
             <div class="card-content">
               <div class="card-face gradient1 rounded shadow">
-                <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
               </div>
               <div class="card-face flipme gradient2 rounded ycenter shadow">
                 <h2>Lapis Sarawak</h2>
