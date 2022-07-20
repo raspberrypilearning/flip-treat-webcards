@@ -157,7 +157,7 @@ title: Halva
 
 **ImageName:** Halva.png
 **TreatName:** Halva
-**TreatDescription:** It's popularity around the world has led to many variations of this treat sweetened with sugar and honey. 
+**TreatDescription:** Halva's popularity around the world has led to many variations of this treat sweetened with sugar and honey. 
 
 --- /collapse ---
 
@@ -283,7 +283,7 @@ title: Party Ring
 
 **ImageName:** PartyRing.png
 **TreatName:** Party Ring
-**TreatDescription:** A kind of biscuit with a layer of hard coloured icing on top.
+**TreatDescription:** A type of biscuit with a layer of hard coloured icing on top.
 
 --- /collapse ---
 
