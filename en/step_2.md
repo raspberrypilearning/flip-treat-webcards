@@ -21,7 +21,7 @@ The `<title>` tag within your code is used to display text in the title bar of y
   
 You can find the `<title>` in the `<head>` element at the top of your `index.html` file. 
 
-**Change** your title to 'Treat flip cards'.
+**Change** your title to `Treat flip cards`.
 
 --- code ---
 ---
@@ -51,7 +51,7 @@ line_highlights: 11
 
 Click on the small triangle next to the `<head>` tag to collapse the `<head>`. 
 
-You can collapse parts of the code you don't need to focus on, which makes your code easier to read.
+You can collapse parts of the code you don't need to focus on to make your code easier to read.
 
 --- /task ---
     
@@ -143,7 +143,7 @@ line_highlights: 33-36
 
 --- task ---
 
-**Test:** View your webpage. You should be able to see an image of a Lapis Sarawak and your text that describes it.
+**Test:** View your webpage. You should be able to see an image of a Lapis Sarawak and your text that describes the image.
 
 <div>
 <iframe src="https://trinket.io/embed/html/0ea70b025f?outputOnly=true" width="500" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
