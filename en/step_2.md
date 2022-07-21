@@ -17,9 +17,9 @@ Open the [Flip treat webcards starter project](https://trinket.io/library/trinke
 
 --- task ---
 
-The `<title>` tag within your code is used to display text in title bar of your web browser and should be relevant to your page. 
+The `<title>` tag within your code is used to display text in the title bar of your web browser. This text should be relevant to your webpage. 
   
-The `<title>` can be found in the `<head>` element at the top of your `index.html` file. 
+You can find the `<title>` in the `<head>` element at the top of your `index.html` file. 
 
 **Change** your title to 'Treat flip cards'.
 
@@ -49,15 +49,15 @@ line_highlights: 11
 
 --- task ---
 
-Click on the small triangle next to the <head> tag to collapse the <head>. 
+Click on the small triangle next to the `<head>` tag to collapse the `<head>`. 
 
-You can collapse parts of the code you don't need to focus on to make your code easier to read.
+You can collapse parts of the code you don't need to focus on, which makes your code easier to read.
 
 --- /task ---
     
 --- task ---
 
-Add a `<section>` to the `<main>` part of your page. Give the `<section>` a `wrap` class to make your website responsive.
+Add a `<section>` to the `<main>` part of your page. Give the `<section>` a `wrap` class to make your webpage responsive.
 
 --- code ---
 ---
@@ -79,9 +79,9 @@ line_highlights: 28-30
 --- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Graphic designers**</span> are people that create engaging physical or digital visual content. Some examples of graphic design work include company logos, product packaging, and website banner design. Our graphic designer Kate has made some images of treats from around the world for you to use in your project. 
+<span style="color: #0faeb0">**Graphic designers**</span> are people who create engaging physical or digital visual content. Some examples of graphic design work include company logos, product packaging, and website banner design. Our graphic designer Kate has made some images of treats from around the world for you to use in your project. 
 
-![A collage of treats images for use in the project.](images/treats.png)
+![A collage of treats to use in the project.](images/treats.png)
 </p>
 
 The `<div>` element is used to group other elements. The `<div>` element is used when there isn't a more appropriate tag, such as `<section>` and `<blockquote>`.
@@ -90,7 +90,7 @@ The `<div>` element is used to group other elements. The `<div>` element is used
 
 Create a `<div>` that contains an image. The first image is `LapisSarawak02.png`, a sweet treat from Malaysia.
 
-![A cartoon style graphic of Lapis Sarawak, a colourful, geometric cake.](images/LapisSarawak02.png)
+![A cartoon-style graphic of Lapis Sarawak, a colourful, geometric cake.](images/LapisSarawak02.png)
 
 --- code ---
 ---
@@ -113,7 +113,7 @@ line_highlights: 29-31
 
 --- task ---
 
-Add another `<div>` with a heading and short paragraph about Lapis Sarawak.
+Add another `<div>` with a heading and short paragraph about Lapis Sarawak:
 
 Heading: `Lapis Sarawak` 
 Paragraph: `A cake baked in layers to make colourful patterns.`
