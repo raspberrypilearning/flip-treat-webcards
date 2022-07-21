@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-In this project, you made a card that flip over. The `flipme` class rotates an HTML element when the page is loaded. 
+In this project, you made a card that flipped over. The `flipme` class rotates a HTML element when the page is loaded. 
 
 --- code ---
 ---
@@ -45,7 +45,7 @@ Where should the `flipme` class be applied?
 
   --- feedback ---
 
-  That's correct. You need the back of the card to be rotated 180 degrees when the page is loaded. This means that when the full card is flipped, on hover or tap, the back is rotated to face the front. 
+  That's correct. You need the back of the card to be rotated 180 degrees when the page is loaded. This means that when the full card is flipped, when you hover or tap the card, the back is rotated to face the front. 
 
   --- /feedback ---
 
@@ -53,7 +53,7 @@ Where should the `flipme` class be applied?
 
   --- feedback ---
 
-  Not quite. This would mean that the front and back of the card were flipped over when you load the page. 
+  Not quite. This would mean that the front and back of the card were flipped over when you loaded the page. 
 
   --- /feedback ---
 
