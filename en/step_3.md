@@ -34,7 +34,7 @@ line_highlights: 29, 37
        <section class="wrap">
          <div class="card">
             <div>
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
             <div>
               <h2>Lapis Sarawak</h2>
@@ -105,7 +105,7 @@ line_highlights: 31
               <div class="card">
                 <div class="card-content">
                   <div class="card-face">
-                    <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+                    <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
                   </div>
                   <div>
                    <h2>Lapis Sarawak</h2>
@@ -142,7 +142,7 @@ line_highlights: 34
               <div class="card">
                 <div class="card-content">
                   <div class="card-face">
-                    <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+                    <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
                   </div>
                   <div class="card-face">
                    <h2>Lapis Sarawak</h2>
@@ -183,7 +183,7 @@ line_highlights: 34
               <div class="card">
                 <div class="card-content">
                   <div class="card-face">
-                    <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+                    <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
                   </div>
                   <div class="card-face flipme">
                    <h2>Lapis Sarawak</h2>
