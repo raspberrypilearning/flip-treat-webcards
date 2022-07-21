@@ -171,7 +171,7 @@ title: Jalebi
 
 **ImageName:** Jalebi.png
 **TreatName:** Jalebi
-**TreatDescription:** A deep-fried sweet snack in prezel or circular shapes.
+**TreatDescription:** Deep-fried sweet snacks in prezel or circular shapes.
 
 --- /collapse ---
 
@@ -185,7 +185,7 @@ title: Knafeh
 
 **ImageName:** Knafeh.png
 **TreatName:** Knafeh
-**TreatDescription:** A dessert pastry made from syrup soaked pastry with a cheese filling.
+**TreatDescription:** A dessert pastry made from syrup-soaked pastry with a cheese filling.
 
 --- /collapse ---
 
@@ -227,7 +227,7 @@ title: Maejakgwa
 
 **ImageName:** Maejakgwa01.png or Maejakgwa02.png
 **TreatName:** Maejakgwa
-**TreatDescription:** Fried sweet ginger cookies coated in syrup.
+**TreatDescription:** Fried sweet ginger cookies that are coated in syrup.
 
 --- /collapse ---
 
@@ -323,7 +323,7 @@ title: Zarda
 
 --- task ---
 
-Use your skills from the [Anime expressions](http://rpf.io/anime-expressions){:target="_blank"} project and [Top 5 emojis list](http://rpf.io/top-5-emoji-list){:target="_blank"} project to add:
+Use your skills from the [Anime expressions](http://rpf.io/anime-expressions){:target="_blank"} project and [Top 5 emojis](http://rpf.io/top-5-emoji-list){:target="_blank"} project to add:
 + A header
 + A footer
 + A quote
