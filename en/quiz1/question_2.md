@@ -13,7 +13,7 @@ legend: Question 2 of 3
 
   --- feedback ---
 
-  Not quite. You use a transparent effect when you want to be able to see through an HTML element. 
+  Not quite. You use a transparent effect when you want to be able to see through a HTML element. 
 
   --- /feedback ---
 
@@ -33,7 +33,7 @@ legend: Question 2 of 3
 
   --- /feedback ---
 
-- ( ) Rounded corners on an HTML element
+- ( ) Rounded corners on a HTML element
 
   --- feedback ---
 
