@@ -158,13 +158,13 @@ line_highlights: 34
 
 --- task ---
 
-**Test:** Hover over (or tap) the card on your webpage. Both the image and the text now appear on the front of the card and are both hidden when the card is flipped. 
+**Test:** Hover over (or tap) the card on your webpage. The image and the text now appear on the front of the card and are both hidden when the card is flipped. 
 
 --- /task ---
 
-Your card needs the text to appear on the back flipped face and not on the front. Earlier when the text did appear on the back, it was flipped so could only be read backwards from right to left. You can solve both of these things with one piece of code. 
+You need the text to appear on the back card face and not on the front card face. Earlier when the text did appear on the back, it was flipped so the text could only be read backwards from right to left. You can solve both of these things with one piece of code. 
 
-![The text in the heading and paragraph has been flipped backwards.](images/backwards-text.png)
+![The text has been flipped backwards.](images/backwards-text.png)
 
 --- task ---
 
