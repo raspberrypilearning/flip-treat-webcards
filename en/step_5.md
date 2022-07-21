@@ -10,7 +10,7 @@ You will now use Google's online font library to import a decorative font into y
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Web designers**</span> need to consider how a website looks and how it reflects the brand of the company, product, or person that they design the website for. Standard web safe fonts are recommended for the majority of text on a webpage. When a designer wants to create an impact, a more unique font can be used. Designers can import <span style="color: #0faeb0">**web fonts**</span> from an online font library to make their websites attract the viewer's attention.</p>
+<span style="color: #0faeb0">**Web designers**</span> need to consider how a website looks and how it reflects the brand of the company, product, or person that they design the website for. Standard web safe fonts are recommended for the majority of text on a webpage. When a designer wants to create an impact, a more unique font can be used. Designers can import <span style="color: #0faeb0">**web fonts**</span> from an online font library to make their website attract people's attention.</p>
 
 [[[web-fonts]]]
 
@@ -97,13 +97,13 @@ line_highlights: 16-18
 
 --- /task ---
 
-You have now imported the fonts that you need from the Google font library. Next, add in the correct CSS so that the web browser knows when to use this font. 
+You have now imported the fonts that you need from the Google Fonts library. Next, add in the correct CSS so that the web browser knows when to use this font. 
 
 --- task ---
 
 Go back to the Google Fonts library webpage and copy the CSS code. You only need the code **after** `font-family: `
 
-![The CSS code ''Bangers', cursive;' is highlighted on the Google Font library site.](images/css.png)
+![The CSS code ''Bangers', cursive;' is highlighted on the Google Fonts library site.](images/css.png)
 
 --- /task ---
 
