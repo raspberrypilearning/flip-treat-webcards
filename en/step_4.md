@@ -22,9 +22,9 @@ Gradients are used to make your card attract the viewer's attention.
 
 Add the `gradient1` class to the `<div>` that displays the image. 
 
-The `gradient1` class uses a linear gradient that transitions from one colour at the top to another colour at the bottom. 
+The `gradient1` class uses a linear gradient that transitions diagonally from one colour at the top to another colour at the bottom. 
 
-![A square that transitions from a purple colour at the top, to an orange colour at the bottom.](images/gradient1.png)
+![A square that transitions from a purple colour in the top left, to an orange colour in the bottom right.](images/gradient1.png)
 
 
 --- code ---
@@ -60,7 +60,7 @@ Add the `gradient2` class to the `<div>` that displays the heading and paragraph
 
 The `gradient2` class uses a linear gradient that transitions diagonally from one colour at the top to another colour at the bottom right. 
 
-![Examples of gradient2 in a square transitioning from a green colour at the top to a blue colour at the bottom right.](images/gradient2.png)
+![Examples of gradient2 in a square transitioning from a green colour at the top left to a blue colour at the bottom right.](images/gradient2.png)
 
 --- code ---
 ---
