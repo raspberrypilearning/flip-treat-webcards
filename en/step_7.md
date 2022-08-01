@@ -34,6 +34,8 @@ filename: index.html
 
 Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treats from the list below. 
 
+**Note:** Remember to also updated the alternative text for each image.
+
 
 --- collapse ---
 
