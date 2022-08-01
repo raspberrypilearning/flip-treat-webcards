@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will add colour gradients, rounded corners and vertical centering to your cards. 
+In this step you will add colour gradients and rounded corners to your card. You will also align the text so that it appears in the centre of the card. 
 </div>
 <div>
 <iframe src="https://trinket.io/embed/html/d885c71711?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
@@ -10,21 +10,21 @@ In this step you will add colour gradients, rounded corners and vertical centeri
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Colour gradients**</span> are a gradual change from one colour to another. Computers process how to display a smooth colour gradient by working out the positions and colour shades needed to go from the starting colour through to the end colour. 
+<span style="color: #0faeb0">**Colour gradients**</span> are a gradual change from one colour to another. To process how to display a smooth colour gradient, computers work out the positions and colour shades needed to go from the starting colour through to the end colour. 
 
-![4 examples of gradients in squares transitioning from one colour to another.](images/gradients.png)
+![Four examples of colour gradients in squares that transition from one colour to another.](images/gradients.png)
 
 </p>
 
-Gradients will be used to make your card stand out on the page. 
+Gradients are used to make your card attract the viewer's attention. 
 
 --- task ---
 
 Add the `gradient1` class to the `<div>` that displays the image. 
 
-The `gradient1` class uses a linear gradient transitioning from one colour at the top to another colour at the bottom. 
+The `gradient1` class uses a linear gradient that transitions diagonally from one colour at the top to another colour at the bottom. 
 
-![Examples of gradient1 in a square transitioning from one colour at the top to another colour at the bottom.](images/gradient1.png)
+![A square that transitions from a purple colour in the top left, to an orange colour in the bottom right.](images/gradient1.png)
 
 
 --- code ---
@@ -39,7 +39,7 @@ line_highlights: 31
         <div class="card">
           <div class="card-content">
             <div class="card-face gradient1">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
 
             <div class="card-face flipme">
@@ -58,9 +58,9 @@ line_highlights: 31
 
 Add the `gradient2` class to the `<div>` that displays the heading and paragraph. 
 
-The `gradient2` class uses a linear gradient transitioning diagonally from one colour at the top to another colour at the bottom right. 
+The `gradient2` class uses a linear gradient that transitions diagonally from one colour at the top to another colour at the bottom right. 
 
-![Examples of gradient2 in a square transitioning from one colour at the top to another colour at the bottom right.](images/gradient2.png)
+![Examples of gradient2 in a square transitioning from a green colour at the top left to a blue colour at the bottom right.](images/gradient2.png)
 
 --- code ---
 ---
@@ -74,7 +74,7 @@ line_highlights: 35
         <div class="card">
           <div class="card-content">
             <div class="card-face gradient1">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
 
             <div class="card-face flipme gradient2">
@@ -101,9 +101,9 @@ line_highlights: 35
 
 Click on the `default.css` file and find the colour palette near the top of the page.
 
-**Choose:**  The colour gradients use variables from the colour palette. Choose the gradients you like best from these options:
+**Choose:** Colour gradients use variables from the colour palette. Choose the gradients you like the best from these options:
 
-![The six options for the different gradients.](images/gradient-options.png)
+![Six options for the different gradients.](images/gradient-options.png)
 
 1.  #7b4397 → #dc2430
 2.  #43cea2 → #185a9d
@@ -112,11 +112,12 @@ Click on the `default.css` file and find the colour palette near the top of the 
 5.  #eecda3 → #ef629f
 6.  #000428 → #004e92
 
-**Update** the variables to see the card faces in your new gradient:
-    + The front card face uses `secondary` and `detail` variables
-    + The back card face uses `tertiary` and `detail2` variables 
+**Update** the variables to see the front and back card faces in your new gradient:
 
-**Tip:** You might also need to change `onsecondary` and `ontertiary` colours so your text stands out on the new colour gradients. 
+ + The front card face uses `secondary` and `detail` variables
+ + The back card face uses `tertiary` and `detail2` variables 
+
+**Tip:** You might also need to change `onsecondary` and `ontertiary` colours so your text can be read on the new colour gradients. 
 
 --- code ---
 ---
@@ -148,7 +149,7 @@ line_highlights: 5-6, 9-10, 12-13
 
 Find the `gradient1` and `gradient2` classes.
 
-**Choose:** update the gradient to the direction you like best try `top`, `right` or `bottom left`.
+**Choose:** Update the gradient to the direction you like best. Try `top`, `right`, or `bottom left`.
 
 --- code ---
 ---
@@ -183,7 +184,7 @@ line_highlights: 245, 254
 
 --- task ---
 
-Click on `index.html`. Add the `rounded` class to each of your card faces to add rounded corners to your card. 
+Click on `index.html`. Add the `rounded` class to both of your card faces to add rounded corners to your card. 
 
 --- code ---
 ---
@@ -197,7 +198,7 @@ line_highlights: 31, 35
         <div class="card">
           <div class="card-content">
             <div class="card-face gradient1 rounded">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
 
             <div class="card-face flipme gradient2 rounded">
@@ -222,13 +223,13 @@ line_highlights: 31, 35
 
 --- task ---
 
-The text on the card is vertically aligned to the top. 
+The text on the card is aligned vertically to the top of the card. 
 
-![The text side of the card with text aligned to the top.](images/ytop.png)
+![alt=""](images/ytop.png)
 
 Add the `ycenter` class to align the text in the centre along the `y` axis. 
 
-![The text side of the card with text aligned to the center vertically.](images/ycenter.png)
+![alt=""](images/ycenter.png)
 
 --- code ---
 ---
@@ -242,7 +243,7 @@ line_highlights: 35
         <div class="card">
           <div class="card-content">
             <div class="card-face gradient1 rounded">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
 
             <div class="card-face flipme gradient2 rounded ycenter">
@@ -259,7 +260,7 @@ line_highlights: 35
 
 --- task ---
 
-**Test:** Hover over (or tap) the card in your webpage to check that the text on the second face has been aligned in the centre of the `y` axis. 
+**Test:** Hover over (or tap) the card in your webpage to check that the text on the second face is aligned in the centre of the `y` axis. 
 
 <iframe src="https://trinket.io/embed/html/d885c71711?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
@@ -267,7 +268,7 @@ line_highlights: 35
 
 --- task ---
 
-Add a shadow effect to both sides of your card using the `shadow` class.
+Use the `shadow` class to add a shadow effect to both sides of your card.
 
 --- code ---
 ---
@@ -282,7 +283,7 @@ line_highlights: 32, 35
          <div class="card">
             <div class="card-content">
               <div class="card-face gradient1 rounded shadow">
-                <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
               </div>
               <div class="card-face flipme gradient2 rounded ycenter shadow">
                 <h2>Lapis Sarawak</h2>

@@ -19,7 +19,7 @@ filename: index.html
         <div class="card">
           <div class="card-content">
             <div class="card-face gradient1 rounded">
-              <img src="ImageName.png" alt="Lapis Sarawak" />
+              <img src="ImageName.png" alt="Lapis Sarawak." />
             </div>
 
             <div class="card-face flipme gradient2 rounded ycenter">
@@ -32,7 +32,9 @@ filename: index.html
 
 --- /code ---
 
-Replace `ImageName`, `TreatName` and `TreatDescription` with your choosen treats from the list below. 
+Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treats from the list below. 
+
+**Note:** Remember to also updated the alternative text for each image.
 
 
 --- collapse ---
@@ -45,7 +47,7 @@ title: Bara Brith
 
 **ImageName:** BaraBrith.png
 **TreatName:** Bara Brith
-**TreatDescription:** A bread with dried fruit and spices. It is flavoured with tea. 
+**TreatDescription:** A bread with dried fruit and spices. Bara Brith is flavoured with tea. 
 
 --- /collapse ---
 
@@ -59,7 +61,7 @@ title: Breskvice
 
 **ImageName:** Breskvice01.png or Breskvice02.png
 **TreatName:** Breskvice
-**TreatDescription:** Peach shaped treats with one half coloured red and the other yellow. 
+**TreatDescription:** Peach-shaped treats with one half coloured red and the other coloured yellow. 
 
 --- /collapse ---
 
@@ -73,7 +75,7 @@ title: Brigadeiro
 
 **ImageName:** Brigadeiro.png
 **TreatName:** Brigadeiro
-**TreatDescription:** A sweet and gooey chocolatey treat often served in a small paper cup.
+**TreatDescription:** A sweet and gooey chocolatey treat that is often served in a small paper cup.
 
 --- /collapse ---
 
@@ -87,7 +89,7 @@ title: Dango
 
 **ImageName:** Dango01.png or Dango02.png
 **TreatName:** Dango
-**TreatDescription:** A dumping made from rice flour served on a skewer.
+**TreatDescription:** A dumpling made from rice flour and served on a skewer.
 
 --- /collapse ---
 
@@ -129,7 +131,7 @@ title: Fairy Bread
 
 **ImageName:** FairyBread.png
 **TreatName:** Fairy Bread
-**TreatDescription:** A fun, colourful treat made from white bread, butter and sprinkles.
+**TreatDescription:** A fun, colourful treat made from white bread, butter, and sprinkles.
 
 --- /collapse ---
 
@@ -143,7 +145,7 @@ title: French Fancy
 
 **ImageName:** FrenchFancy.png
 **TreatName:** French Fancy
-**TreatDescription:** A sponge cake with a vanilla topping all covered in coloured icing.
+**TreatDescription:** A sponge cake with a vanilla topping and all covered in coloured icing.
 
 --- /collapse ---
 
@@ -157,7 +159,7 @@ title: Halva
 
 **ImageName:** Halva.png
 **TreatName:** Halva
-**TreatDescription:** It's popularity around the world has led to many variations of this treat sweetened with sugar and honey. 
+**TreatDescription:** Halva's popularity around the world has led to many variations of this treat that is sweetened with sugar and honey. 
 
 --- /collapse ---
 
@@ -171,7 +173,7 @@ title: Jalebi
 
 **ImageName:** Jalebi.png
 **TreatName:** Jalebi
-**TreatDescription:** A deep fried sweet snack in prezel or circular shapes.
+**TreatDescription:** Deep-fried sweet snacks in prezel or circular shapes.
 
 --- /collapse ---
 
@@ -185,7 +187,7 @@ title: Knafeh
 
 **ImageName:** Knafeh.png
 **TreatName:** Knafeh
-**TreatDescription:** A dessert pastry made from syrup soaked pastry with a cheese filling.
+**TreatDescription:** A dessert pastry made from syrup-soaked pastry with a cheese filling.
 
 --- /collapse ---
 
@@ -199,7 +201,7 @@ title: Ladoo
 
 **ImageName:** Ladoo.png
 **TreatName:** Ladoo
-**TreatDescription:** Round fried balls made from flour, butter and sugar.
+**TreatDescription:** Round fried balls made from flour, butter, and sugar.
 
 --- /collapse ---
 
@@ -213,7 +215,7 @@ title: Lolly Cake
 
 **ImageName:** LollyCake.png
 **TreatName:** Lolly Cake
-**TreatDescription:** A log cake rolled in coconut and filled with lollies or candy then chopped into slices. 
+**TreatDescription:** A log cake that is filled with lollies or candy, rolled in coconut, and then chopped into slices. 
 
 --- /collapse ---
 
@@ -227,7 +229,7 @@ title: Maejakgwa
 
 **ImageName:** Maejakgwa01.png or Maejakgwa02.png
 **TreatName:** Maejakgwa
-**TreatDescription:** Fried sweet ginger cookies coated in syrup.
+**TreatDescription:** Fried sweet ginger cookies that are coated in syrup.
 
 --- /collapse ---
 
@@ -241,7 +243,7 @@ title: Mandazi
 
 **ImageName:** Mandazi.png
 **TreatName:** Mandazi
-**TreatDescription:** Triangle or rectangle shaped fried bread donuts.
+**TreatDescription:** Mandazi is a fried bread donut that is in the shape of a triangle or rectangle.
 
 --- /collapse ---
 
@@ -255,7 +257,7 @@ title: Maple Leaf Biscuit
 
 **ImageName:** MapleLeafBiscuit.png
 **TreatName:** Maple Leaf Biscuit
-**TreatDescription:** Biscuits sandwiched together with a middle maple syrup cream filling.
+**TreatDescription:** Biscuits sandwiched together with a middle filling made of maple syrup cream.
 
 --- /collapse ---
 
@@ -269,7 +271,7 @@ title: Oliebollen
 
 **ImageName:** Oliebollen.png
 **TreatName:** Oliebollen
-**TreatDescription:** A fried bread mixed with fruit and shaped into balls. 
+**TreatDescription:** Fried bread that is mixed with fruit and shaped into balls. 
 
 --- /collapse ---
 
@@ -283,7 +285,7 @@ title: Party Ring
 
 **ImageName:** PartyRing.png
 **TreatName:** Party Ring
-**TreatDescription:** A kind of biscuit with a layer of hard coloured icing on top.
+**TreatDescription:** A type of biscuit with a layer of hard coloured icing on the top.
 
 --- /collapse ---
 
@@ -297,7 +299,7 @@ title: Tim Tams
 
 **ImageName:** TimTams.png
 **TreatName:** Tim Tams
-**TreatDescription:** A chocolate biscuit with chocolate cream filling and hard chocolate covering.
+**TreatDescription:** A chocolate biscuit with a chocolate cream filling and hard chocolate covering.
 
 --- /collapse ---
 
@@ -311,7 +313,7 @@ title: Zarda
 
 **ImageName:** Zarda.png
 **TreatName:** Zarda
-**TreatDescription:** A fragrant, yellow sweet rice dessert often baked with dried fruit or nuts. 
+**TreatDescription:** A fragrant, yellow sweet rice dessert that is often baked with dried fruit or nuts. 
 
 --- /collapse ---
 
@@ -323,10 +325,10 @@ title: Zarda
 
 --- task ---
 
-Use your skills from [Anime expressions](http://rpf.io/anime-expressions){:target="_blank"} project and [Top 5 emoji list](http://rpf.io/top-5-emoji-list){:target="_blank"} project to add:
-+ a header
-+ a footer
-+ a quote
+Use your skills from the [Anime expressions](http://rpf.io/anime-expressions){:target="_blank"} project and [Top 5 emojis](http://rpf.io/top-5-emoji-list){:target="_blank"} project to add:
++ A header
++ A footer
++ A quote
 
 --- /task ---
 
