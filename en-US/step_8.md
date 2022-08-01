@@ -1,10 +1,10 @@
 ## What next?
 
-If you are following the [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path, you can move on to the [Mood Board](https://projects.raspberrypi.org/en/projects/mood-board) project. In this project, you will make a web page that combines colours, fonts and images to create a look or style for a idea of your choice.
+If you are following the [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path, you can move on to the [Mood board](https://projects.raspberrypi.org/en/projects/mood-board) project. In this project, you will make a webpage that combines colours, fonts, and images to create a look or style for an idea of your choice.
 
 --- print-only ---
 
-![Happiness](images/happiness.PNG)
+![alt=""](images/happiness.PNG)
 
 --- /print-only ---
 
