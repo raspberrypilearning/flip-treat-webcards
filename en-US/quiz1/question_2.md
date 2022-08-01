@@ -13,15 +13,15 @@ legend: Question 2 of 3
 
   --- feedback ---
 
-  Not quite. You use a transparent effect when you want to be able to see through an HTML element.
+  Not quite. You use a transparent effect when you want to be able to see through a HTML element.
 
   --- /feedback ---
 
-- ( ) A kind of font
+- ( ) A type of font
 
   --- feedback ---
 
-  Not quite. A gradient is a kind of visual effect.
+  Not quite. A gradient is a type of visual effect.
 
   --- /feedback ---
 
@@ -33,7 +33,7 @@ legend: Question 2 of 3
 
   --- /feedback ---
 
-- ( ) Rounded corners on an HTML element
+- ( ) Rounded corners on a HTML element
 
   --- feedback ---
 
