@@ -32,3 +32,5 @@ Did you notice the background gradients and the fancy font?
 ![alt=""](images/showcase_static.png)
 
 --- /print-only ---
+
+![](http://code.org/api/hour/begin_rp_webcards.png)
