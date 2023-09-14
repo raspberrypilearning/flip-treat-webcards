@@ -5,7 +5,7 @@
 In this step you will make a card that flips with content on the front and back. 
 </div>
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step_3" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-3" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
 
@@ -201,7 +201,7 @@ line_highlights: 34
 
 **Test:** Hover over (or tap) the card on your webpage to see your flip card.
 
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step_3" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-3" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 --- /task ---
 

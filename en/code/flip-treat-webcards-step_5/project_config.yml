@@ -1,5 +1,5 @@
 name: 'Flip treat webcards'
-identifier: 'flip-treat-webcards-step_5'
+identifier: 'flip-treat-webcards-step-5'
 type: 'html'
 components:
   - name: 'index'
