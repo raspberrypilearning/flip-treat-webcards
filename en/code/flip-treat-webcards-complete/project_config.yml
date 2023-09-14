@@ -17,7 +17,7 @@ components:
     location: style.css
     index: 2
     default: false
-: 'default'
+  - name: 'default'
     extension: 'css'
     location: default.css
     index: 3
