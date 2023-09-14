@@ -4,7 +4,7 @@ If you have time, you can add more cards to your project, customise the animatio
 
 ### Add more cards
 
-<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step_7" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 --- task ---
 
@@ -317,7 +317,7 @@ title: Zarda
 
 --- /collapse ---
 
-<iframe src="https://trinket.io/embed/html/d32996ce0d?outputOnly=true" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step_7" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 --- /task ---
 
