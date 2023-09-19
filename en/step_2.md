@@ -5,7 +5,7 @@
 In this step you will create an infocard for a tasty treat with an image, heading, and text.
 </div>
 <div>
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-2" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-2" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
 
@@ -146,7 +146,7 @@ line_highlights: 33-36
 **Test:** View your webpage. You should be able to see an image of a Lapis Sarawak and your text that describes the image.
 
 <div>
-<iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-2" width="500" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-2" width="500" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 </div>
 
