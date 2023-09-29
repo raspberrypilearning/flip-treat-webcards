@@ -338,7 +338,7 @@ Use your skills from the [Anime expressions](http://rpf.io/anime-expressions){:t
 title: Completed project
 ---
 
-You can view the [completed project here](https://trinket.io/html/d32996ce0d?runMode=autorun){:target="_blank"}.
+You can view the [completed project here](https://staging-editor.raspberrypi.org/en/projects/flip-treat-webcards-step-5){:target="_blank"}.
 
 --- /collapse ---
 
