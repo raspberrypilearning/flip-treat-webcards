@@ -29,19 +29,21 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 1
-line_highlights: 11
+line_highlights: 13
 ---
 <!DOCTYPE html>
 <html lang="en">
-  <!-- This part is for extra information the browser needs to load the page correctly-->
-  <head>
-    <meta charset="utf-8" />
 
-    <!-- Don't shrink the page on mobile -->
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-    <!-- Appears on the web browser tab and search results -->
-    <title>Treat flip cards</title>
+<!-- This part is for extra information the browser needs to load the page correctly-->
+<head>
+  
+  <meta charset="utf-8">
+    
+  <!-- Don't shrink the page on mobile -->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <!-- Appears on the web browser tab and search results -->
+  <title>Treat flip cards</title> 
 
 --- /code ---
 
@@ -64,8 +66,8 @@ Add a `<section>` to the `<main>` part of your page. Give the `<section>` a `wra
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 25
-line_highlights: 28-30
+line_number_start: 26
+line_highlights: 29-31
 ---
 <body>
 
@@ -97,15 +99,15 @@ Create a `<div>` that contains an image. The first image is `LapisSarawak02.png`
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 28
-line_highlights: 29-31
+line_number_start: 29
+line_highlights: 30-32
 ---
 
-<section class="wrap">
-  <div>
-    <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
-  </div>
-</section>
+    <section class="wrap">
+      <div>
+          <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
+      </div>
+    </section>
 
 --- /code ---
 
@@ -127,15 +129,15 @@ line_number_start: 29
 line_highlights: 33-36
 ---
          
-<section class="wrap">
-        <div>
-          <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
-        </div>
-        <div>
-          <h2>Lapis Sarawak</h2>
-          <p>A cake baked in layers to make colourful patterns.</p>
-        </div>
-</section>
+    <section class="wrap">
+      <div>
+        <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
+      </div>
+      <div>
+        <h2>Lapis Sarawak</h2>
+        <p>A cake baked in layers to make colourful patterns.</p>
+      </div>
+    </section>
         
 --- /code ---
 
@@ -143,7 +145,9 @@ line_highlights: 33-36
 
 --- task ---
 
-**Test:** View your webpage. You should be able to see an image of a Lapis Sarawak and your text that describes the image.
+**Test:** Click the **Run** button. 
+
+View your webpage. You should be able to see an image of a Lapis Sarawak and your text that describes the image.
 
 <div>
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-2" width="500" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
