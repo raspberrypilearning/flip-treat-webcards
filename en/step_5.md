@@ -131,7 +131,9 @@ line_highlights: 16-17
 
 --- task ---
 
-**Test:** Hover over (or tap) your flip card in the preview pane. You should see your new font applied to the heading of the back of the card.
+**Test:** Click the **Run** button. 
+
+Hover over (or tap) your flip card in the preview pane. You should see your new font applied to the heading of the back of the card.
 
 <div>
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-5" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>

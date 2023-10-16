@@ -82,7 +82,9 @@ line_highlights: 30, 38
 
 --- task ---
 
-**Test:** Hover over (or tap) the card on your webpage. The content should flip over. 
+**Test:** Click the **Run** button. 
+
+Hover over (or tap) the card on your webpage. The content should flip over. 
 
 What do you notice about the content?
 
@@ -121,7 +123,9 @@ line_highlights: 31
 
 --- task ---
 
-**Test:** Hover over (or tap) the card on your webpage. The image and text appear on top of each other, but the image should hide when the card is flipped. 
+**Test:** Click the **Run** button. 
+
+Hover over (or tap) the card on your webpage. The image and text appear on top of each other, but the image should hide when the card is flipped. 
 
 --- /task ---
 
@@ -158,7 +162,9 @@ line_highlights: 34
 
 --- task ---
 
-**Test:** Hover over (or tap) the card on your webpage. The image and the text now appear on the front of the card and are both hidden when the card is flipped. 
+**Test:** Click the **Run** button. 
+
+Hover over (or tap) the card on your webpage. The image and the text now appear on the front of the card and are both hidden when the card is flipped. 
 
 --- /task ---
 
@@ -199,7 +205,9 @@ line_highlights: 34
 
 --- task ---
 
-**Test:** Hover over (or tap) the card on your webpage to see your flip card.
+**Test:** Click the **Run** button. 
+
+Hover over (or tap) the card on your webpage to see your flip card.
 
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-3" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
