@@ -27,12 +27,12 @@ Add `<div></div>` tags around your current Lapis Sarawak code with the CSS class
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 27
-line_highlights: 29, 37
+line_number_start: 28
+line_highlights: 30, 38
 ---
     <main>
-       <section class="wrap">
-         <div class="card">
+        <section class="wrap">
+          <div class="card">
             <div>
               <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
             </div>
@@ -41,7 +41,7 @@ line_highlights: 29, 37
               <p>A cake baked in layers to make colourful patterns.</p>
             </div>
           </div>
-      </section>
+        </section>
 
 --- /code ---
 
@@ -58,12 +58,12 @@ Add another set of `<div></div>` tags inside your card with the CSS class `card-
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 27
-line_highlights: 30, 38
+line_number_start: 28
+line_highlights: 31, 39
 ---
     <main>
-       <section class="wrap">
-         <div class="card">
+        <section class="wrap">
+          <div class="card">
             <div class="card-content">
               <div>
                 <img src="LapisSarawak02.png" alt="Lapis Sarawak" />
@@ -73,8 +73,8 @@ line_highlights: 30, 38
                 <p>A cake baked in layers to make colourful patterns.</p>
               </div>
             </div>
-        </div>
-      </section>
+          </div>
+        </section>
 
 --- /code ---
 
@@ -99,23 +99,23 @@ Add the `card-face` class to the `<div>` tag around the image. The `card-face` c
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 27
-line_highlights: 31
+line_number_start: 28
+line_highlights: 32
 ---
     <main>
-            <section class="wrap">
-              <div class="card">
-                <div class="card-content">
-                  <div class="card-face">
-                    <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
-                  </div>
-                  <div>
-                   <h2>Lapis Sarawak</h2>
-                   <p>A cake baked in layers to make colourful patterns.</p>
-                  </div>
-                 </div>
-               </div>
-           </section> 
+        <section class="wrap">
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face">
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
+              </div>
+              <div>
+                <h2>Lapis Sarawak</h2>
+                <p>A cake baked in layers to make colourful patterns.</p>
+              </div>
+            </div>
+          </div>
+        </section> 
 
 --- /code ---
 
@@ -138,23 +138,23 @@ Add the `card-face` class to the `<div>` tag around the heading and paragraph. T
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 27
-line_highlights: 34
+line_number_start: 28
+line_highlights: 35
 ---
     <main>
-            <section class="wrap">
-              <div class="card">
-                <div class="card-content">
-                  <div class="card-face">
-                    <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
-                  </div>
-                  <div class="card-face">
-                   <h2>Lapis Sarawak</h2>
-                   <p>A cake baked in layers to make colourful patterns.</p>
-                  </div>
-                 </div>
-               </div>
-           </section> 
+        <section class="wrap">
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face">
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
+              </div>
+              <div class="card-face">
+                <h2>Lapis Sarawak</h2>
+                <p>A cake baked in layers to make colourful patterns.</p>
+              </div>
+            </div>
+          </div>
+        </section> 
 
 --- /code ---
 
@@ -181,23 +181,23 @@ Add the `flipme` class to the `<div>` tag around the heading and paragraph. This
 language: html
 filename: index.html
 line_numbers: true
-line_number_start: 27
-line_highlights: 34
+line_number_start: 28
+line_highlights: 35
 ---
     <main>
-            <section class="wrap">
-              <div class="card">
-                <div class="card-content">
-                  <div class="card-face">
-                    <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
-                  </div>
-                  <div class="card-face flipme">
-                   <h2>Lapis Sarawak</h2>
-                   <p>A cake baked in layers to make colourful patterns.</p>
-                  </div>
-                 </div>
-               </div>
-           </section> 
+        <section class="wrap">
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face">
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
+              </div>
+              <div class="card-face flipme">
+                <h2>Lapis Sarawak</h2>
+                <p>A cake baked in layers to make colourful patterns.</p>
+              </div>
+            </div>
+          </div>
+        </section> 
 
 --- /code ---
 
@@ -226,10 +226,10 @@ You could:
 language: css
 filename: style.css
 line_numbers: true
-line_number_start: 264
-line_highlights: 269, 271
+line_number_start: 272
+line_highlights: 277, 279
 ---
-  .card-content {
+.card-content {
   position: relative;
   width: 100%;
   height: 100%;
