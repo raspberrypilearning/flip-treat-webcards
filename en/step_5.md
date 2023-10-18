@@ -101,7 +101,7 @@ You have now imported the fonts that you need from the Google Fonts library. Nex
 
 Go to your `default.css` file and find the `header-font` and `title-font` variables. 
 
-**Replace** the current font `Verdana, sans-serif;` with `'Bangers', cursive;`. 
+**Replace** the current font `Verdana, sans-serif;` with `Bangers, cursive;`. 
 
 --- code ---
 ---
@@ -112,8 +112,8 @@ line_number_start: 15
 line_highlights: 16-17
 ---
   --body-font: 1.1rem Verdana, sans-serif;
-  --header-font: lighter 3rem 'Bangers', cursive;
-  --title-font: lighter 2rem 'Bangers', cursive;
+  --header-font: lighter 3rem Bangers, cursive;
+  --title-font: lighter 2rem Bangers, cursive;
 
 --- /code ---
 
