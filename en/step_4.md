@@ -233,11 +233,11 @@ Hover over (or tap) the card in your webpage to check that both sides of the car
 
 The text on the card is not aligned correctly. 
 
-![alt=""](images/yoff.png)
+![alt](images/yoff.png)
 
 Add the `ycenter` class to align the text in the centre along the `y` axis. 
 
-![alt=""](images/ycentered.png)
+![alt](images/ycentered.png)
 
 --- code ---
 ---
