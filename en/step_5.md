@@ -135,6 +135,6 @@ Hover over (or tap) your flip card in the preview pane. You should see your new 
 
 **Choose:** To choose your own font, go back to [fonts.google.com](https://fonts.google.com/){:target="_blank"}.
 
-**Remove** the Bangers style in Google Fonts. Click on `remove this style`, before you select your new font. 
+**Remove** the Bangers style in Google Fonts before you select your new font. 
 
 --- /task ---
