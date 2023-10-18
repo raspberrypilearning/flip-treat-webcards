@@ -12,7 +12,7 @@ In this step you will add colour gradients and rounded corners to your card. You
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 <span style="color: #0faeb0">**Colour gradients**</span> are a gradual change from one colour to another. To process how to display a smooth colour gradient, computers work out the positions and colour shades needed to go from the starting colour through to the end colour. 
 
-![Four examples of colour gradients in squares that transition from one colour to another.](images/gradients.png)
+![Four examples of colour gradients in squares that transition in different directions from one colour to another.](images/gradients.png)
 
 </p>
 
@@ -33,22 +33,22 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 28
-line_highlights: 31
+line_highlights: 32
 ---
-    <section class="wrap">
-        <div class="card">
-          <div class="card-content">
-            <div class="card-face gradient1">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
-            </div>
-
-            <div class="card-face flipme">
-              <h2>Lapis Sarawak</h2>
-              <p>A cake baked in layers to make colourful patterns.</p>
+    <main>
+        <section class="wrap">
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face gradient1">
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
+              </div>
+              <div class="card-face flipme">
+                <h2>Lapis Sarawak</h2>
+                <p>A cake baked in layers to make colourful patterns.</p>
+              </div>
             </div>
           </div>
-        </div>
-    </section>
+        </section> 
 
 --- /code ---
 
@@ -70,20 +70,20 @@ line_numbers: true
 line_number_start: 28
 line_highlights: 35
 ---
-    <section class="wrap">
-        <div class="card">
-          <div class="card-content">
-            <div class="card-face gradient1">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
-            </div>
-
-            <div class="card-face flipme gradient2">
-              <h2>Lapis Sarawak</h2>
-              <p>A cake baked in layers to make colourful patterns.</p>
+    <main>
+        <section class="wrap">
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face gradient1">
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
+              </div>
+              <div class="card-face flipme gradient2">
+                <h2>Lapis Sarawak</h2>
+                <p>A cake baked in layers to make colourful patterns.</p>
+              </div>
             </div>
           </div>
-        </div>
-    </section>
+        </section> 
 
 --- /code ---
 
@@ -151,7 +151,7 @@ line_highlights: 5-6, 9-10, 12-13
 
 --- task ---
 
-Find the `gradient1` and `gradient2` classes.
+Click on the `default.css` file again and find the `gradient1` and `gradient2` classes.
 
 **Choose:** Update the gradient to the direction you like best. Try `top`, `right`, or `bottom left`.
 
@@ -163,9 +163,9 @@ line_numbers: true
 line_number_start: 243
 line_highlights: 245, 254
 ---
-  .gradient1 {
+.gradient1 {
   background-image: linear-gradient(
-    to bottom,
+    to bottom right,
     var(--secondary),
     var(--detail)
   );
@@ -196,22 +196,22 @@ language: html
 filename: index.html
 line_numbers: true
 line_number_start: 28
-line_highlights: 31, 35
+line_highlights: 32, 35
 ---
-    <section class="wrap">
-        <div class="card">
-          <div class="card-content">
-            <div class="card-face gradient1 rounded">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
-            </div>
-
-            <div class="card-face flipme gradient2 rounded">
-              <h2>Lapis Sarawak</h2>
-              <p>A cake baked in layers to make colourful patterns.</p>
+    <main>
+        <section class="wrap">
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face gradient1 rounded">
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
+              </div>
+              <div class="card-face flipme gradient2 rounded">
+                <h2>Lapis Sarawak</h2>
+                <p>A cake baked in layers to make colourful patterns.</p>
+              </div>
             </div>
           </div>
-        </div>
-    </section>
+        </section> 
 
 --- /code ---
 
@@ -247,20 +247,20 @@ line_numbers: true
 line_number_start: 28
 line_highlights: 35
 ---
-    <section class="wrap">
-        <div class="card">
-          <div class="card-content">
-            <div class="card-face gradient1 rounded">
-              <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
-            </div>
-
-            <div class="card-face flipme gradient2 rounded ycenter">
-              <h2>Lapis Sarawak</h2>
-              <p>A cake baked in layers to make colourful patterns.</p>
+    <main>
+        <section class="wrap">
+          <div class="card">
+            <div class="card-content">
+              <div class="card-face gradient1 rounded">
+                <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
+              </div>
+              <div class="card-face flipme gradient2 rounded ycenter">
+                <h2>Lapis Sarawak</h2>
+                <p>A cake baked in layers to make colourful patterns.</p>
+              </div>
             </div>
           </div>
-        </div>
-    </section>
+        </section> 
 
 --- /code ---
 
@@ -291,8 +291,8 @@ line_number_start: 28
 line_highlights: 32, 35
 ---
     <main>
-       <section class="wrap">
-         <div class="card">
+        <section class="wrap">
+          <div class="card">
             <div class="card-content">
               <div class="card-face gradient1 rounded shadow">
                 <img src="LapisSarawak02.png" alt="Lapis Sarawak." />
@@ -302,8 +302,8 @@ line_highlights: 32, 35
                 <p>A cake baked in layers to make colourful patterns.</p>
               </div>
             </div>
-        </div>
-      </section>
+          </div>
+        </section> 
 
 --- /code ---
 
