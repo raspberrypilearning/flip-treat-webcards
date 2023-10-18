@@ -231,7 +231,7 @@ Hover over (or tap) the card in your webpage to check that both sides of the car
 
 --- task ---
 
-The text on the card is aligned vertically to the top of the card. 
+The text on the card is not aligned correctly. 
 
 ![alt=""](images/ytop.png)
 
