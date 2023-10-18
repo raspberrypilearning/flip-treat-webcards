@@ -21,7 +21,6 @@ filename: index.html
             <div class="card-face gradient1 rounded">
               <img src="ImageName.png" alt="Lapis Sarawak." />
             </div>
-
             <div class="card-face flipme gradient2 rounded ycenter">
               <h2>TreatName</h2>
               <p>TreatDescription</p>
