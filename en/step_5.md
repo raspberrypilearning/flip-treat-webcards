@@ -24,21 +24,19 @@ Open [fonts.google.com](https://fonts.google.com/){:target="_blank"}. The link w
 
 --- task ---
 
-Type some sample text in the **sentence** box. The example uses the treat name in this project, `Lapis Sarawak`.
+Type some sample text in the **Preview** box. The example uses the treat name in this project, `Lapis Sarawak`.
 
-![The Google Fonts search page. The words 'Lapis Sarawak' have been entered in the sentence box.](images/custom.png)
+![The Google Fonts search page. The words 'Lapis Sarawak' have been entered in the Preview box.](images/custom.png)
 
 **Notice** that the examples show your sample text. You can see how your words will look in all of the fonts available. 
 
 --- /task ---
 
-There are many different search options to choose from. You can search by category (fallback font families), language, or different font properties. 
-
-![The Google Fonts search page. The search categories are highlighted.](images/search-options.PNG)
+There are many different search filters to use. You can search by language, or different font properties. 
 
 --- task ---
 
-Enter the font name `Bangers` into the main search box. 
+Enter the font name `Bangers` into the 'search fonts' box. 
 
 ![alt=""](images/bangers.png)
 
@@ -56,9 +54,9 @@ Click on the Bangers card that has appeared in the search results.
 
 --- task ---
 
-Click on the 'Select this style' link.
+Click on the 'Select' link (our example shows 'Select Regular 400').
 
-![A screenshot highlights the 'Select this style' link.](images/select-style.png)
+![A screenshot highlights the 'Select' link.](images/select-style.png)
 
 **Notice** that a pane pops in from the side. The pane gives you the code that you need.
 
@@ -66,9 +64,9 @@ Click on the 'Select this style' link.
 
 --- task ---
 
-Highlight the HTML text and right-click and select the text (tap and hold) to copy the HTML code.
+Click the copy icon to copy the HTML code.
 
-![The HTML text is highlighted.](images/html.png)
+![The HTML to copy.](images/html.png)
 
 --- /task ---
 
@@ -101,17 +99,9 @@ You have now imported the fonts that you need from the Google Fonts library. Nex
 
 --- task ---
 
-Go back to the Google Fonts library webpage and copy the CSS code. You only need the code **after** `font-family: `
-
-![The CSS code ''Bangers', cursive;' is highlighted on the Google Fonts library site.](images/css.png)
-
---- /task ---
-
---- task ---
-
 Go to your `default.css` file and find the `header-font` and `title-font` variables. 
 
-**Replace** the current font `Verdana, sans-serif;` with your new one. Delete the old text and press paste.
+**Replace** the current font `Verdana, sans-serif;` with `'Bangers', cursive;`. 
 
 --- code ---
 ---
@@ -148,7 +138,3 @@ Hover over (or tap) your flip card in the preview pane. You should see your new 
 **Remove** the Bangers style in Google Fonts. Click on `remove this style`, before you select your new font. 
 
 --- /task ---
-
-
-
-
