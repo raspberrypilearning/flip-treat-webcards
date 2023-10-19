@@ -14,7 +14,7 @@ You will now use Google's online font library to import a decorative font into y
 
 [[[web-fonts]]]
 
-Google has a free online font library with over 1400 fonts to choose from. The site allows you to use your own sample text to browse different fonts and help you find the right font. Google then gives you the **HTML** and **CSS** code that you need to **import** the font into your website. 
+Google has a free online font library with over 1500 fonts to choose from. The site allows you to use your own sample text to browse different fonts and help you find the right font. Google then gives you the **HTML** that you need to **import** the font into your website. 
 
 --- task ---
 
