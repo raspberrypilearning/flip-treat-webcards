@@ -215,19 +215,18 @@ Hover over (or tap) the card on your webpage to see your flip card.
 
 --- task ---
 
-**Choose:** Go to the `style.css` file and change the settings in the `card-content` class to use the timing and 3D animation effect you like best. 
+**Choose:** Go to the `style.css` file and change the setting in the `card-content` class to use the timing you like best. 
 
 You could:
   + Change the seconds in the `transition: transform 1s;` line of code.
-  + Change the perspective size in the `perspective: 60rem;` line of code.
-
+  
 --- code ---
 ---
 language: css
 filename: style.css
 line_numbers: true
 line_number_start: 272
-line_highlights: 277, 279
+line_highlights: 277
 ---
 .card-content {
   position: relative;
