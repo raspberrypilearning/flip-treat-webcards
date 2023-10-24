@@ -101,7 +101,7 @@ You have now imported the fonts that you need from the Google Fonts library. Nex
 
 Go to your `default.css` file and find the `header-font` and `title-font` variables. 
 
-**Replace** the current font `Verdana, sans-serif;` with `Bangers, cursive;`. 
+**Replace** the current font `Verdana` with `Bangers`. 
 
 --- code ---
 ---
@@ -136,5 +136,7 @@ Hover over (or tap) your flip card in the preview pane. You should see your new 
 **Choose:** To choose your own font, go back to [fonts.google.com](https://fonts.google.com/){:target="_blank"}.
 
 **Remove** the Bangers style in Google Fonts before you select your new font. 
+
+**Tip** Don't forget to update your `default.css` file to include the new font name.
 
 --- /task ---
