@@ -140,3 +140,13 @@ Hover over (or tap) your flip card in the preview pane. You should see your new 
 **Tip** Don't forget to update your `default.css` file to include the new font name.
 
 --- /task ---
+
+--- collapse ---
+
+---
+title: Completed project
+---
+
+You can view the [completed project here](https://staging-editor.raspberrypi.org/en/projects/flip-treat-webcards-complete){:target="_blank"}.
+
+--- /collapse ---

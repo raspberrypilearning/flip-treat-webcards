@@ -334,10 +334,10 @@ Use your skills from the [Anime expressions](http://rpf.io/anime-expressions){:t
 --- collapse ---
 
 ---
-title: Completed project
+title: Upgraded project
 ---
 
-You can view the [completed project here](https://staging-editor.raspberrypi.org/en/projects/flip-treat-webcards-step-7){:target="_blank"}.
+You can view the [upgraded project here](https://staging-editor.raspberrypi.org/en/projects/flip-treat-webcards-step-7){:target="_blank"}.
 
 --- /collapse ---
 
