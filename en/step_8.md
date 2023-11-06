@@ -16,8 +16,8 @@ If you are following the [Intro to web](https://projects.raspberrypi.org/en/path
 Take a look at the different styles that have been applied to the elements on this mood board. How many can you find?
 </div>
 <div>
-**Happiness**: [See inside](https://staging-editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
-<div><iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+**Happiness**: [See inside](https://editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
+<div><iframe src="https://editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
 </div>

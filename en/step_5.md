@@ -5,7 +5,7 @@
 You will now use Google's online font library to import a decorative font into your webpage. 
 </div>
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-5" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-5" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
 
@@ -126,7 +126,7 @@ line_highlights: 16-17
 Hover over (or tap) your flip card in the preview pane. You should see your new font applied to the heading of the back of the card.
 
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-5" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-5" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---
@@ -147,6 +147,6 @@ Hover over (or tap) your flip card in the preview pane. You should see your new 
 title: Completed project
 ---
 
-You can view the [completed project here](https://staging-editor.raspberrypi.org/en/projects/flip-treat-webcards-step-5){:target="_blank"}.
+You can view the [completed project here](https://editor.raspberrypi.org/en/projects/flip-treat-webcards-step-5){:target="_blank"}.
 
 --- /collapse ---

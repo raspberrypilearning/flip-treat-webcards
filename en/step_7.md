@@ -4,7 +4,7 @@ If you have time, you can add more cards to your project, customise the animatio
 
 ### Add more cards
 
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-7" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-7" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 --- task ---
 
@@ -316,7 +316,7 @@ title: Zarda
 
 --- /collapse ---
 
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-7" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-7" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 --- /task ---
 
@@ -337,7 +337,7 @@ Use your skills from the [Anime expressions](http://rpf.io/anime-expressions){:t
 title: Upgraded project
 ---
 
-You can view the [upgraded project here](https://staging-editor.raspberrypi.org/en/projects/flip-treat-webcards-step-7){:target="_blank"}.
+You can view the [upgraded project here](https://editor.raspberrypi.org/en/projects/flip-treat-webcards-step-7){:target="_blank"}.
 
 --- /collapse ---
 
