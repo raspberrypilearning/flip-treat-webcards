@@ -4,8 +4,8 @@ description: Create a set of interactive cards that tell people about sweet trea
 meta_title: CSS tutorial | Learn web development | Flip treat webcards
 meta_description: In this CSS tutorial you will learn web development with the Raspberry Pi Foundation. Use CSS animations to create interactive cards that flip over.
 version: 4
-listed: false
-copyedit: false
+listed: true
+copyedit: true
 last_tested: "2021-03-26"
 steps:
   - title: Introduction
