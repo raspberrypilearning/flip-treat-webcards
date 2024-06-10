@@ -1,8 +1,8 @@
-## Style your card
+## Stijl je kaart
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will add colour gradients and rounded corners to your card. You will also align the text so that it appears in the centre of the card. 
+In deze stap voegt je kleurverlopen en afgeronde hoeken toe aan jouw kaart. Je lijnt de tekst ook zo uit dat deze in het midden van de kaart verschijnt. 
 </div>
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-4" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -10,21 +10,21 @@ In this step you will add colour gradients and rounded corners to your card. You
 </div>
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Colour gradients**</span> are a gradual change from one colour to another. To process how to display a smooth colour gradient, computers work out the positions and colour shades needed to go from the starting colour through to the end colour. 
+<span style="color: #0faeb0">**Kleurverlopen**</span> zijn een geleidelijke verandering van de ene kleur naar de andere. Om te bepalen hoe een vloeiend kleurverloop kan worden weergegeven, berekenen computers de posities en kleurschakeringen die nodig zijn om van de startkleur tot en met de eindkleur te gaan. 
 
-![Four examples of colour gradients in squares that transition in different directions from one colour to another.](images/gradients.png)
+![Vier voorbeelden van kleurverlopen in vierkanten die in verschillende richtingen overgaan van de ene kleur naar de andere.](images/gradients.png)
 
 </p>
 
-Gradients are used to make your card attract the viewer's attention.
+Verlopen worden gebruikt om ervoor te zorgen dat jouw kaart de aandacht van de kijker trekt.
 
 \--- task ---
 
-Add the `gradient1` class to the `<div>` that displays the image.
+Voeg de class `gradient1` toe aan de `<div>` die de afbeelding weergeeft.
 
-The `gradient1` class uses a linear gradient that transitions diagonally from one colour at the top to another colour at the bottom.
+De class `gradient1` gebruikt een lineair verloop dat diagonaal overgaat van de ene kleur bovenaan naar een andere kleur onderaan.
 
-![A square that transitions from a purple colour in the top left, to an orange colour in the bottom right.](images/gradient1.png)
+![Een vierkant dat overgaat van een paarse kleur linksboven naar een oranje kleur rechtsonder.](images/gradient1.png)
 
 ## --- code ---
 
@@ -58,11 +58,11 @@ line_highlights: 32
 
 \--- task ---
 
-Add the `gradient2` class to the `<div>` that displays the heading and paragraph.
+Voeg de class `gradient2` toe aan de `<div>` die de kop en alinea weergeeft.
 
-The `gradient2` class uses a linear gradient that transitions diagonally from one colour at the top to another colour at the bottom right.
+De class `gradient2` gebruikt een lineair verloop dat diagonaal overgaat van de ene kleur bovenaan naar een andere kleur rechtsonder.
 
-![Examples of gradient2 in a square transitioning from a green colour at the top left to a blue colour at the bottom right.](images/gradient2.png)
+![Voorbeelden van gradient2 in een vierkant dat overgaat van een groene kleur links boven naar een blauwe kleur rechtsonder.](images/gradient2.png)
 
 ## --- code ---
 
@@ -96,9 +96,9 @@ line_highlights: 35
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 
-Hover over (or tap) the card in your webpage to see that both gradients have been added.
+Beweeg de muis over (of tik) op de kaart op jouw webpagina om te zien of beide verlopen zijn toegevoegd.
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-4a" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -108,11 +108,11 @@ Hover over (or tap) the card in your webpage to see that both gradients have bee
 
 \--- task ---
 
-Click on the `default.css` file and find the colour palette near the top of the page.
+Klik op het `default.css` bestand en zoek het kleurenpalet bij de bovenkant van de pagina.
 
-**Choose:** Colour gradients use variables from the colour palette. Choose the gradients you like the best from these options:
+**Keuze:** Kleurverlopen gebruiken variabelen uit het kleurenpalet. Kies uit deze opties de verlopen die je het mooist vindt:
 
-![Six options for the different gradients.](images/gradient-options.png)
+![Zes opties voor de verschillende kleurverlopen.](images/gradient-options.png)
 
 1. \#7b4397 → #dc2430
 2. \#43cea2 → #185a9d
@@ -121,12 +121,12 @@ Click on the `default.css` file and find the colour palette near the top of the 
 5. \#eecda3 → #ef629f
 6. \#000428 → #004e92
 
-**Update** the variables to see the front and back card faces in your new gradient:
+**Update** de variabelen om de voor- en achterkant van de kaart in je nieuwe verloop te zien:
 
-- The front card face uses `secondary` and `detail` variables
-- The back card face uses `tertiary` and `detail2` variables
+- De voorkant van de kaart gebruikt `secondary` en `detail` variabelen
+- De achterkant gebruikt `tertiary` en `detail2` variabelen
 
-**Tip:** You might also need to change `onsecondary` and `ontertiary` colours so your text can be read on the new colour gradients.
+**Tip:** Misschien moet je ook `onsecondary` en `ontertiary` kleuren veranderen zodat je tekst in de nieuwe kleuren kan worden gelezen.
 
 ## --- code ---
 
@@ -137,7 +137,7 @@ line_number_start: 1
 line_highlights: 5-6, 9-10, 12-13
 ----------------------------------------------------------------------
 
-/\* Set up colour palette and fonts using variables \*/
+/\* Stel het kleurenpalet en lettertypen in met behulp van variabelen \*/
 
 :root {
 \--primary: #ffffff;
@@ -157,9 +157,9 @@ line_highlights: 5-6, 9-10, 12-13
 
 \--- task ---
 
-Click on the `default.css` file again and find the `gradient1` and `gradient2` classes.
+Klik opnieuw op het `default.css` bestand en zoek de `gradient1` en `gradient2` klassen.
 
-**Choose:** Update the gradient to the direction you like best. Try `top`, `right`, or `bottom left`.
+**Keuze:** Werk het verloop bij in de richting die je het beste vindt. Probeer `top`, `right`, of `bottom left`.
 
 ## --- code ---
 
@@ -194,7 +194,7 @@ color: var(--ontertiary);
 
 \--- task ---
 
-Click on `index.html`. Add the `rounded` class to both of your card faces to add rounded corners to your card.
+Klik op 'index.html`. Voeg de klasse `rounded\` toe aan beide kanten van de card om afgeronde hoeken aan je card toe te voegen.
 
 ## --- code ---
 
@@ -228,9 +228,9 @@ line_highlights: 32, 35
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 
-Hover over (or tap) the card in your webpage to check that both sides of the card have rounded corners.
+Beweeg de muis over (of tik) op de kaart op je webpagina om te controleren of beide zijden van de kaart afgeronde hoeken hebben.
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-4b" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -240,11 +240,11 @@ Hover over (or tap) the card in your webpage to check that both sides of the car
 
 \--- task ---
 
-The text on the card is not aligned correctly.
+De tekst op de kaart is niet correct uitgelijnd.
 
 ![alt](images/yoff.png)
 
-Add the `ycenter` class to align the text in the centre along the `y` axis.
+Voeg de `ycenter` klasse toe om de tekst in het midden van de `y` as uit te lijnen.
 
 ![alt](images/ycentered.png)
 
@@ -280,9 +280,9 @@ line_highlights: 35
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 
-Hover over (or tap) the card in your webpage to check that the text on the second face is aligned in the centre of the `y` axis.
+Beweeg de muis over (of tik) op de kaart op jouw webpagina om te controleren of de tekst op het tweede vlak in het midden van de 'y'-as is uitgelijnd.
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-4c" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -292,7 +292,7 @@ Hover over (or tap) the card in your webpage to check that the text on the secon
 
 \--- task ---
 
-Use the `shadow` class to add a shadow effect to both sides of your card.
+Gebruik de `schaduw` klasse om een schaduweffect toe te voegen aan beide kanten van je kaart.
 
 ## --- code ---
 
@@ -313,7 +313,7 @@ line_highlights: 32, 35
           </div>
           <div class="card-face flipme gradient2 rounded ycenter shadow">
             <h2>Lapis Sarawak</h2>
-            <p>A cake baked in layers to make colourful patterns.</p>
+            <p>Een cake die in lagen is gebakken om kleurrijke patronen te maken.</p>
           </div>
         </div>
       </div>
@@ -326,9 +326,9 @@ line_highlights: 32, 35
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 
-Hover over (or tap) the card in your webpage to check that the card now has a shadow effect.
+Beweeg de muis over (of tik) op de kaart op je webpagina om te controleren of de kaart nu een schaduweffect heeft.
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-4" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
