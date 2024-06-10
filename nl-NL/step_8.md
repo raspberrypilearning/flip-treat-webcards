@@ -1,6 +1,6 @@
-## What next?
+## Wat kun je verder nog doen?
 
-If you are following the [Intro to web](https://projects.raspberrypi.org/en/pathways/web-intro) path, you can move on to the [Mood board](https://projects.raspberrypi.org/en/projects/mood-board) project. In this project, you will make a webpage that combines colours, fonts, and images to create a look or style for an idea of your choice.
+Als je het pad [Inleiding tot web](https://projects.raspberrypi.org/en/pathways/web-intro) volgt, kun je doorgaan naar het [Moodboard](https://projects.raspberrypi.org/en/projects/mood-board)-project. In dit project maak je een webpagina die kleuren, lettertypen en afbeeldingen combineert om een uiterlijk of stijl te creëren voor een idee naar keuze.
 
 \--- print-only ---
 
@@ -10,14 +10,14 @@ If you are following the [Intro to web](https://projects.raspberrypi.org/en/path
 
 \--- no-print ---
 
-### Try it
+### Probeer het uit
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-Take a look at the different styles that have been applied to the elements on this mood board. How many can you find?
+Bekijk de verschillende stijlen die zijn toegepast op de elementen op dit moodboard. Hoeveel kun je er vinden?
 </div>
 <div>
-**Happiness**: [See inside](https://editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
+**Geluk**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
 <div><iframe src="https://editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
