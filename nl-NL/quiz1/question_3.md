@@ -2,9 +2,9 @@
 
 ---
 
-## legend: Question 3 of 3
+## legend: Vraag 3 van 3
 
-You have found a fun font from Google Fonts for your webpage. To use the font in your project, would you need to update:
+Je hebt een leuk lettertype gevonden van Google Fonts voor jouw webpagina. Als je het lettertype in jouw project wilt gebruiken, moet je het volgende bijwerken:
 
 \--- choices ---
 
@@ -12,7 +12,7 @@ You have found a fun font from Google Fonts for your webpage. To use the font in
 
   \--- feedback ---
 
-  Not quite. You do need a `<link>` element to link to the font, but you need something else too.
+  Niet helemaal. Je hebt wel een `<link>` element nodig om naar het lettertype te linken, maar je hebt ook iets anders nodig.
 
   \--- /feedback ---
 
@@ -20,15 +20,15 @@ You have found a fun font from Google Fonts for your webpage. To use the font in
 
   \--- feedback ---
 
-  Not quite. You do need to use the `font-family` property in your CSS, but you need something else too.
+  Niet helemaal. Je moet de eigenschap 'font-family' in je CSS gebruiken, maar je hebt ook iets anders nodig.
 
   \--- /feedback ---
 
-- (x) Both?
+- (x) Beide?
 
   \--- feedback ---
 
-  That's correct. When you want to use a Google Font in your project, you need to `<link>` to the font in the `<header>` of your HTML file. You also need to use the `font-family` property in your CSS to say which CSS elements should use the new font.
+  Dat klopt. Als je een Google-lettertype in jouw project wilt gebruiken, moet je een `<link>` maken naar het lettertype in de `<header>` van jouw HTML-bestand. Je moet ook de `font-family` eigenschap in je CSS gebruiken om te zeggen welke CSS elementen het nieuwe lettertype moeten gebruiken.
 
   \--- /feedback ---
 
