@@ -1,20 +1,20 @@
-## Reflection
+## Reflectie
 
-Well done, you have learned a lot! Now it's time to reflect &mdash; reflecting is an important part of learning because it helps make new connections in your brain.
+Goed gedaan, je hebt veel geleerd! Nu is het tijd om na te denken - reflecteren is een belangrijk onderdeel van het leren omdat het helpt om nieuwe verbindingen in je hersenen te maken.
 
-Answer the three questions below to reflect on what you've learned.
+Beantwoord de drie onderstaande vragen om terug te kijken op wat je hebt geleerd.
 
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Druk na elke vraag op Controleer mijn antwoord. Je wordt naar het juiste antwoord geleid. Je kunt deze activiteit zo vaak doen als je wilt.
 
-Have fun!
+Veel plezier!
 
 \--- question ---
 
 ---
 
-## legend: Question 1 of 3
+## legend: Vraag 1 van 3
 
-In this project, you made a card that flipped over. The `flipme` class rotates a HTML element when the page is loaded.
+In dit project heb je een kaart gemaakt die omdraaide. De class 'flipme' draait een HTML-element wanneer de pagina wordt geladen.
 
 ## --- code ---
 
@@ -29,31 +29,31 @@ transform: rotateY(180deg);
 
 \--- /code ---
 
-Where should the `flipme` class be applied?
+Waar moet de `flipme`class worden toegepast?
 
 \--- choices ---
 
-- ( ) The `<div>` for the front of the card
+- ( ) De `<div>` voor de voorkant van de kaart
 
   \--- feedback ---
 
-  Not quite. This would flip the front of the card over when you loaded the page.
+  Niet helemaal. Hierdoor wordt de voorkant van de kaart omgedraaid wanneer je de pagina laadt.
 
   \--- /feedback ---
 
-- (x) The `<div>` for the back of the card
+- (x) De `<div>` voor de achterkant van de kaart
 
   \--- feedback ---
 
-  That's correct. You need the back of the card to be rotated 180 degrees when the page is loaded. This means that when the full card is flipped, when you hover or tap the card, the back is rotated to face the front.
+  Dat klopt. Je moet de achterkant van de kaart 180 graden draaien bij het laden van de pagina. Dit betekent dat wanneer de volledige kaart wordt omgedraaid, wanneer je boven de kaart zweeft of op de kaart klikt, de achterkant wordt gedraaid om de voorkant te tonen.
 
   \--- /feedback ---
 
-- ( ) Both the `<div>` for the front and back of the card
+- ( ) Zowel de `<div>` voor de voor- als de achterkant van de kaart
 
   \--- feedback ---
 
-  Not quite. This would mean that the front and back of the card were flipped over when you loaded the page.
+  Niet helemaal. Dit zou betekenen dat de voor- en achterkant van de kaart bij het laden van de pagina omgedraaid worden.
 
   \--- /feedback ---
 
