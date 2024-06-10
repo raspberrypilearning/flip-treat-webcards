@@ -1,8 +1,8 @@
-## Create your card
+## Maak je card
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will create an infocard for a tasty treat with an image, heading, and text.
+In deze stap maak je een infocard voor een lekkere traktatie met een afbeelding, kop en tekst.
 </div>
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-2" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -11,17 +11,17 @@ In this step you will create an infocard for a tasty treat with an image, headin
 
 \--- task ---
 
-Open the [Flip treat webcards starter project](https://editor.raspberrypi.org/en/projects/flip-treat-webcards-starter){:target="_blank"}.
+Open het [Webcards met lekkernijen startproject](https://editor.raspberrypi.org/en/projects/flip-treat-webcards-starter){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-The `<title>` tag within your code is used to display text in the title bar of your web browser. This text should be relevant to your webpage.
+De `<title>` tag binnen je code wordt gebruikt om tekst in de titelbalk van je webbrowser weer te geven. Deze tekst moet relevant zijn voor je webpagina.
 
-You can find the `<title>` in the `<head>` element at the top of your `index.html` file.
+Je kunt de `<title>` binnen het `<head>` element vinden bovenaan je `index.html` bestand.
 
-**Change** your title to `Treat flip cards`.
+**Verander** je titel in `Lekkernijen flip cards`.
 
 ## --- code ---
 
@@ -48,7 +48,7 @@ line_highlights: 13
 
   <!-- Appears on the web browser tab and search results -->
 
-  <title>Treat flip cards</title> 
+  <title>Flip cards met lekkernijen</title> 
 
 \--- /code ---
 
@@ -56,15 +56,15 @@ line_highlights: 13
 
 \--- task ---
 
-Click on the small triangle next to the `<head>` tag to collapse the `<head>`.
+Klik op het kleine driehoekje naast de tag `<head>` om de `<head>` samen te vouwen.
 
-You can collapse parts of the code you don't need to focus on to make your code easier to read.
+Je kunt delen van de code samenvouwen waarop je je niet hoeft te concentreren om je code gemakkelijker te kunnen lezen.
 
 \--- /task ---
 
 \--- task ---
 
-Add a `<section>` to the `<main>` part of your page. Give the `<section>` a `wrap` class to make your webpage responsive.
+Voeg een `<section>` toe aan het `<main>` deel van je pagina. Geef de `<section>` een `wrap` class om je webpagina te laten reageren.
 
 ## --- code ---
 
@@ -89,19 +89,19 @@ line_highlights: 29-31
 \--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Graphic designers**</span> are people who create engaging physical or digital visual content. Some examples of graphic design work include company logos, product packaging, and website banner design. Our graphic designer Kate has made some images of treats from around the world for you to use in your project. 
+<span style="color: #0faeb0">**Grafische ontwerpers**</span> zijn mensen die aantrekkelijke fysieke of digitale visuele inhoud creëren. Enkele voorbeelden van grafisch ontwerp zijn bedrijfslogo's, productverpakkingen en website banner ontwerp. Onze grafisch ontwerper Kate heeft een aantal afbeeldingen gemaakt van lekkernijen van over de hele wereld die je in je project kunt gebruiken. 
 
-![A collage of treats to use in the project.](images/treats.png)
+![Een collage van lekkernijen om in het project te gebruiken.](images/treats.png)
 
 </p>
 
-The `<div>` element is used to group other elements. The `<div>` element is used when there isn't a more appropriate tag, such as `<section>` and `<blockquote>`.
+Het `<div>` element wordt gebruikt om andere elementen te groeperen. Het `<div>` element wordt gebruikt als er geen andere geschikte tag is, zoals `<section>` en `<blockquote>`.
 
 \--- task ---
 
-Create a `<div>` that contains an image. The first image is `LapisSarawak02.png`, a sweet treat from Malaysia.
+Maak een `<div>` die een afbeelding bevat. Het eerste beeld is `LapisSarawak02.png`, een zoete lekkernij uit Maleisië.
 
-![A cartoon-style graphic of Lapis Sarawak, a colourful, geometric cake.](images/LapisSarawak02.png)
+![Een cartoonachtige afbeelding van Lapis Sarawak, een kleurrijke, geometrische taart.](images/LapisSarawak02.png)
 
 ## --- code ---
 
@@ -126,10 +126,10 @@ line_highlights: 30-32
 
 \--- task ---
 
-Add another `<div>` with a heading and short paragraph about Lapis Sarawak:
+Voeg nog een `<div>` toe met een kop en een korte paragraaf over Lapis Sarawak:
 
-Heading: `Lapis Sarawak`
-Paragraph: `A cake baked in layers to make colourful patterns.`
+Kop: `Lapis Sarawak`
+Paragraaf: `Een cake die in lagen wordt gebakken om kleurrijke patronen te maken.`
 
 ## --- code ---
 
@@ -159,9 +159,9 @@ line_highlights: 33-36
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 
-View your webpage. You should be able to see an image of a Lapis Sarawak and your text that describes the image.
+Bekijk jouw webpagina. Je zou een afbeelding van een Lapis Sarawak moeten kunnen zien en je tekst die de afbeelding beschrijft.
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-2" width="500" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
