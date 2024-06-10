@@ -1,26 +1,26 @@
-## Flip your card
+## Draai je kaart om
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will make a card that flips with content on the front and back. 
+In deze stap maak je een kaart die kan omdraaien, met inhoud aan de voor- en achterkant. 
 </div>
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-3" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
 
-Use `<div></div>` tags to structure your code and separate the main parts of the card:
+Gebruik `<div></div>` tags om je code te structureren en de belangrijkste delen van de kaart te scheiden:
 
-- The flip card
-  - The viewable content
-    - The front card face
-    - The back card face
+- De flip card
+  - De zichtbare inhoud
+    - De voorkant van de kaart
+    - De achterkant van de kaart
 
 \--- task ---
 
-The `card` class has been created for you in `style.css`. The `card` class sets the width, height, and border of the card.
+De `card` class is al aangemaakt in `style.css`. De `card` class stelt de breedte, hoogte en rand van de kaart in.
 
-Add `<div></div>` tags around your current Lapis Sarawak code with the CSS class `card`.
+Voeg `<div></div>` tags toe rond je huidige Lapis Sarawak code met de CSS class `card`.
 
 ## --- code ---
 
@@ -52,9 +52,9 @@ line_highlights: 30, 38
 
 \--- task ---
 
-The `card-content` class has been created for you in `style.css`. The `card-content` class controls the timing, perspective, and 3D effect of the flip.
+De `card-content` class is al aangemaakt in `style.css`. De `card-content` class regelt de timing, het perspectief en het 3D-effect van de draaiing.
 
-Add another set of `<div></div>` tags inside your card with the CSS class `card-content`.
+Voeg nog een set van `<div></div>` tags toe in je kaart met de CSS class `card-content`.
 
 ## --- code ---
 
@@ -88,17 +88,17 @@ line_highlights: 31, 39
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 
-Hover over (or tap) the card on your webpage. The content should flip over.
+Beweeg de muis over (of tik) op de kaart op je webpagina. De inhoud zou moeten omdraaien.
 
-What do you notice about the content?
+Wat valt je op aan de inhoud?
 
 \--- /task ---
 
 \--- task ---
 
-Add the `card-face` class to the `<div>` tag around the image. The `card-face` class tells the elements within it to hide when they are flipped to the back.
+Voeg de class `card-face` toe aan de tag `<div>` rond de afbeelding. De class `card-face` zorgt ervoor dat de elementen in die class worden verborgen wanneer ze naar achteren worden gedraaid.
 
 ## --- code ---
 
@@ -132,15 +132,15 @@ line_highlights: 32
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 
-Hover over (or tap) the card on your webpage. The image and text appear on top of each other, but the image should hide when the card is flipped.
+Beweeg de muis over (of tik) op de kaart op je webpagina. De afbeelding en de tekst verschijnen over elkaar heen, maar de afbeelding moet verborgen zijn als de kaart wordt omgedraaid.
 
 \--- /task ---
 
 \--- task ---
 
-Add the `card-face` class to the `<div>` tag around the heading and paragraph. This is to make the heading and paragraph also hide when they are flipped to the back.
+Voeg de `card-face` class toe aan de `<div>` tag rond de kop en alinea. Dit is om ervoor te zorgen dat de kop en de alinea worden verborgen als ze naar achteren worden gedraaid.
 
 ## --- code ---
 
@@ -174,19 +174,19 @@ line_highlights: 35
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 
-Hover over (or tap) the card on your webpage. The image and the text now appear on the front of the card and are both hidden when the card is flipped.
+Beweeg de muis over (of tik) op de kaart op je webpagina. De afbeelding en de tekst verschijnen nu op de voorkant van de kaart en worden allebei verborgen wanneer de kaart wordt omgedraaid.
 
 \--- /task ---
 
-You need the text to appear on the back card face and not on the front card face. Earlier when the text did appear on the back, it was flipped so the text could only be read backwards from right to left. You can solve both of these things with one piece of code.
+De tekst moet op de achterkant van de kaart verschijnen en niet op de voorkant van de kaart. Toen de tekst eerder op de achterkant verscheen, werd deze omgedraaid, zodat de tekst alleen achterstevoren van rechts naar links kon worden gelezen. Je kunt beide dingen oplossen met één stukje code.
 
-![The text has been flipped backwards.](images/backwards-text.png)
+![De tekst is achterstevoren gespiegeld.](images/backwards-text.png)
 
 \--- task ---
 
-Add the `flipme` class to the `<div>` tag around the heading and paragraph. This rotates the text 180 degrees so it is flipped to the back face and now can be read correctly.
+Voeg de class `flipme` toe aan de tag `<div>` rond de kop en alinea. Hierdoor wordt de tekst 180 graden gedraaid, zodat deze naar de achterkant wordt gespiegeld en nu correct kan worden gelezen.
 
 ## --- code ---
 
@@ -220,9 +220,9 @@ line_highlights: 35
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test:** Klik op de **Run** knop.
 
-Hover over (or tap) the card on your webpage to see your flip card.
+Beweeg de muis over (of tik) op de kaart op je webpagina om je flip card te zien.
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-3" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
@@ -230,11 +230,11 @@ Hover over (or tap) the card on your webpage to see your flip card.
 
 \--- task ---
 
-**Choose:** Go to the `style.css` file and change the setting in the `card-content` class to use the timing you like best.
+**Keuze:** Ga naar het `style.css` bestand en verander de instelling in de `card-content` klasse naar de timing die jij het beste vindt.
 
-You could:
+Je kunt:
 
-- Change the seconds in the `transition: transform 1s;` line of code.
+- De seconden wijzigen in de coderegel 'transition: transform 1s;'.
 
 ## --- code ---
 
