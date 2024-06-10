@@ -1,27 +1,27 @@
-title: Flip treat webcards
+title: Flip webcards met lekkernijen
 hero_image: images/banner.png
-description: Create a set of interactive cards that tell people about sweet treats from around the world.
-meta_title: CSS tutorial | Learn web development | Flip treat webcards
-meta_description: In this CSS tutorial you will learn web development with the Raspberry Pi Foundation. Use CSS animations to create interactive cards that flip over.
+description: Maak een set interactieve kaarten die uitleg geven over zoete lekkernijen van over de hele wereld.
+meta_title: CSS-tutorial | Leer webontwikkeling |Flip webcards met lekkernijen
+meta_description: In deze CSS-handleiding leer je webontwikkeling met de Raspberry Pi Foundation. Gebruik CSS animaties om interactieve kaarten te maken die omdraaien.
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-03-26"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Create your card
+    title: Maak je kaart
   - 
-    title: Flip your card
+    title: Draai je kaart om
     completion: engaged
   - 
-    title: Style your card
+    title: Stijl je kaart
   - 
-    title: Choose your font
+    title: Kies je lettertype
     completion: internal
   - 
-    title: Reflection
+    title: Reflectie
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,6 +29,6 @@ steps:
       passing_score: 3
     completion: external
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
