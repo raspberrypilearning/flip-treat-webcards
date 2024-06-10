@@ -1,19 +1,19 @@
-This part is for extra information the browser needs to load the page correctly
+Dit deel is bedoeld voor extra informatie die de browser nodig heeft om de pagina correct te laden
 
-Don't shrink the page on mobile
+De pagina op mobiel niet verkleinen
 
-Appears on the web browser tab and search results
+Verschijnt op het tabblad van de webbrowser en in de zoekresultaten
 
-Treat flip cards
+Flip cards met lekkernijen
 
 Lapis Sarawak
 
-A cake baked in layers to make colourful patterns.
+Een cake die in lagen wordt gebakken om kleurrijke patronen te maken.
 
-Set up colour palette and fonts using variables
+Stel het kleurenpalet en lettertypen in met behulp van variabelen
 
-Import fonts from Google
+Importeer lettertypen van Google
 
-TreatName
+LekkernijNaam
 
-TreatDescription
+LekkernijBeschrijving
