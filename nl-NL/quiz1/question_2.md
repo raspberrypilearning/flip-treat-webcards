@@ -2,41 +2,41 @@
 
 ---
 
-## legend: Question 2 of 3
+## legend: Vraag 2 van 3
 
-Which of the following is the best description of a **gradient**?
+Welke van de volgende beschrijvingen is de beste beschrijving van een **verloop**?
 
 \--- choices ---
 
-- ( ) A transparent effect
+- ( ) Een transparant effect
 
   \--- feedback ---
 
-  Not quite. You use a transparent effect when you want to be able to see through a HTML element.
+  Niet helemaal. Je gebruikt een transparant effect als je een HTML-element wilt kunnen zien.
 
   \--- /feedback ---
 
-- ( ) A type of font
+- ( ) Een soort lettertype
 
   \--- feedback ---
 
-  Not quite. A gradient is a type of visual effect.
+  Niet helemaal. Een verloop is een soort visueel effect.
 
   \--- /feedback ---
 
-- (x) A gradual change between one colour and another
+- (x) Een geleidelijke verandering van de ene kleur naar de andere
 
   \--- feedback ---
 
-  That's correct! A gradient is a gradual change between colours in a particular direction.
+  Dat is correct! Een verloop is een geleidelijke verandering tussen de kleuren in een bepaalde richting.
 
   \--- /feedback ---
 
-- ( ) Rounded corners on a HTML element
+- ( ) Afgeronde hoeken van een HTML-element
 
   \--- feedback ---
 
-Not quite. You use a `border-radius` to create rounded corners, not a gradient.
+Niet helemaal. Je gebruikt een `border-radius` om afgeronde hoeken te maken, geen verloop.
 
 \--- /feedback ---
 
