@@ -1,0 +1,19 @@
+Cette partie contient des informations supplémentaires dont le navigateur a besoin pour charger correctement la page
+
+Ne rétrécis pas la page sur mobile
+
+Apparaît dans l'onglet du navigateur web et dans les résultats de recherche
+
+Cartes de friandises à retourner
+
+Lapis Sarawak
+
+Un gâteau cuit en couches pour créer des motifs colorés.
+
+Configurer la palette de couleurs et les polices en utilisant les variables
+
+Importer des polices depuis Google
+
+NomFriandise
+
+DescriptionFriandise
