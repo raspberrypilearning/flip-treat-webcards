@@ -1,19 +1,19 @@
-This part is for extra information the browser needs to load the page correctly
+Cette partie contient des informations supplémentaires dont le navigateur a besoin pour charger correctement la page
 
-Don't shrink the page on mobile
+Ne rétrécis pas la page sur mobile
 
-Appears on the web browser tab and search results
+Apparaît dans l'onglet du navigateur web et dans les résultats de recherche
 
-Treat flip cards
+Cartes de friandises à retourner
 
 Lapis Sarawak
 
-A cake baked in layers to make colourful patterns.
+Un gâteau cuit en couches pour créer des motifs colorés.
 
-Set up colour palette and fonts using variables
+Configurer la palette de couleurs et les polices en utilisant les variables
 
-Import fonts from Google
+Importer des polices depuis Google
 
-TreatName
+NomFriandise
 
-TreatDescription
+DescriptionFriandise
