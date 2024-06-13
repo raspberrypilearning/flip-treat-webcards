@@ -1,20 +1,20 @@
-## Reflection
+## Réflexion
 
-Well done, you have learned a lot! Now it's time to reflect &mdash; reflecting is an important part of learning because it helps make new connections in your brain.
+Bravo, tu as beaucoup appris ! Maintenant, il est temps de réfléchir &mdash; la réflexion est une partie importante de l'apprentissage, car elle aide à établir de nouvelles connexions dans ton cerveau.
 
-Answer the three questions below to reflect on what you've learned.
+Réponds aux trois questions ci-dessous pour réfléchir sur ce que tu as appris.
 
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Après chaque question, appuie sur Soumettre. Tu seras guidé vers la bonne réponse. Tu peux faire cette activité autant de fois que tu le souhaites.
 
-Have fun!
+Amuse-toi bien !
 
 \--- question ---
 
 ---
 
-## legend: Question 1 of 3
+## legend: Question 1 sur 3
 
-In this project, you made a card that flipped over. The `flipme` class rotates a HTML element when the page is loaded.
+Dans ce projet, tu as créé une carte qui se retourne. La classe `flipme` fait pivoter un élément HTML lorsque la page est chargée.
 
 ## --- code ---
 
@@ -29,31 +29,31 @@ transform: rotateY(180deg);
 
 \--- /code ---
 
-Where should the `flipme` class be applied?
+Où la classe `flipme` doit-elle être appliquée ?
 
 \--- choices ---
 
-- ( ) The `<div>` for the front of the card
+- ( ) Le `<div>` pour le recto de la carte
 
   \--- feedback ---
 
-  Not quite. This would flip the front of the card over when you loaded the page.
+  Pas tout à fait. Cela permet de retourner le recto de la carte lorsque tu charges la page.
 
   \--- /feedback ---
 
-- (x) The `<div>` for the back of the card
+- (x) Le `<div>` pour le verso de la carte
 
   \--- feedback ---
 
-  That's correct. You need the back of the card to be rotated 180 degrees when the page is loaded. This means that when the full card is flipped, when you hover or tap the card, the back is rotated to face the front.
+  C'est correct. Tu dois tourner le verso de la carte de 180 degrés lors du chargement de la page. Cela signifie que lorsque la carte complète est retournée, lorsque tu survoles ou effleures la carte, le verso est tourné pour faire face au recto.
 
   \--- /feedback ---
 
-- ( ) Both the `<div>` for the front and back of the card
+- ( ) Les deux `<div>` pour le recto et le verso de la carte
 
   \--- feedback ---
 
-  Not quite. This would mean that the front and back of the card were flipped over when you loaded the page.
+  Pas tout à fait. Cela signifierait que le recto et le verso de la carte ont été retournés lorsque tu as chargé la page.
 
   \--- /feedback ---
 
