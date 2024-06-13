@@ -2,33 +2,33 @@
 
 ---
 
-## legend: Question 3 of 3
+## legend: Question 3 sur 3
 
-You have found a fun font from Google Fonts for your webpage. To use the font in your project, would you need to update:
+Tu as trouvé une police amusante de Google Fonts pour ta page web. Pour utiliser la police dans ton projet, aurais-tu besoin de mettre à jour :
 
 \--- choices ---
 
-- ( ) HTML?
+- ( ) L'HTML ?
 
   \--- feedback ---
 
-  Not quite. You do need a `<link>` element to link to the font, but you need something else too.
+  Pas tout à fait. Tu as besoin d'un élément `<link>` pour établir un lien avec la police, mais tu as aussi besoin d'autre chose.
 
   \--- /feedback ---
 
-- ( ) CSS?
+- ( ) Le CSS ?
 
   \--- feedback ---
 
-  Not quite. You do need to use the `font-family` property in your CSS, but you need something else too.
+  Pas tout à fait. Tu dois utiliser la propriété `font-family` dans ton CSS, mais tu as aussi besoin d'autre chose.
 
   \--- /feedback ---
 
-- (x) Both?
+- (x) Les deux ?
 
   \--- feedback ---
 
-  That's correct. When you want to use a Google Font in your project, you need to `<link>` to the font in the `<header>` of your HTML file. You also need to use the `font-family` property in your CSS to say which CSS elements should use the new font.
+  C'est correct. Lorsque tu veux utiliser une police Google Fonts dans ton projet, tu dois `<link>` à la police dans le `<header>` de ton fichier HTML. Tu dois également utiliser la propriété `font-family` dans ton CSS pour indiquer quels éléments CSS doivent utiliser la nouvelle police.
 
   \--- /feedback ---
 
