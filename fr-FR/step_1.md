@@ -1,26 +1,26 @@
 ## Introduction
 
-In this project, you will create a flip card with a treat from around the world. The card flips over when you hover over or tap it.
+Dans ce projet, tu créeras une carte à retourner avec une friandise du monde entier. La carte se retourne lorsque tu la survoles ou que tu appuies dessus.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Flip cards**</span> help people to interact with a webpage. Flip cards also allow you to provide extra information in a small space or hide information that shouldn't be immediately visible. Some common examples of animated flip cards are revision cards, business cards, social media contact cards, and product cards. 
+<span style="color: #0faeb0">**Les cartes à retourner**</span> aident les gens à interagir avec une page web. Les cartes à retourner te permettent également de fournir des informations supplémentaires dans un espace réduit ou de cacher des informations qui ne devraient pas être directement visibles. Quelques exemples courants de cartes à retourner animées sont les cartes de révision, les cartes de visite, les cartes de contact des réseaux sociaux et les cartes de produits. 
 </p>
 
-You will:
+Tu vas :
 
-- Use CSS animations to create a **card that flips over** when it is interacted with
-- Apply a **gradient** background using CSS
-- Add and use a font from **Google Fonts**
+- Utiliser des animations CSS pour créer une **carte qui se retourne** lorsqu'on interagit avec elle
+- Appliquer un arrière-plan **dégradé** en utiliser le CSS
+- Ajouter et utiliser une police de **Google Fonts**
 
 \--- no-print ---
 
 \--- task ---
 
-### Try it
+### Essaie-le
 
-Explore this webcard. What happens when you hover over it?
+Découvre cette carte web. Que se passe-t-il lorsque tu la survoles ?
 
-Did you notice the background gradients and the fancy font?
+As-tu remarqué les dégradés de l'arrière-plan et la police de caractères fantaisiste ?
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-5" width="550" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
