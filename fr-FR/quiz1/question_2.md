@@ -2,41 +2,41 @@
 
 ---
 
-## legend: Question 2 of 3
+## legend: Question 2 sur 3
 
-Which of the following is the best description of a **gradient**?
+Lequel des éléments suivants décrit le mieux un **dégradé** ?
 
 \--- choices ---
 
-- ( ) A transparent effect
+- ( ) Un effet de transparence
 
   \--- feedback ---
 
-  Not quite. You use a transparent effect when you want to be able to see through a HTML element.
+  Pas tout à fait. Tu utilises un effet de transparence lorsque tu veux pouvoir voir à travers un élément HTML.
 
   \--- /feedback ---
 
-- ( ) A type of font
+- ( ) Un type de police
 
   \--- feedback ---
 
-  Not quite. A gradient is a type of visual effect.
+  Pas tout à fait. Un dégradé est un type d'effet visuel.
 
   \--- /feedback ---
 
-- (x) A gradual change between one colour and another
+- (x) Un changement progressif d'une couleur à une autre
 
   \--- feedback ---
 
-  That's correct! A gradient is a gradual change between colours in a particular direction.
+  C'est correct ! Un dégradé est un changement progressif entre les couleurs dans une direction donnée.
 
   \--- /feedback ---
 
-- ( ) Rounded corners on a HTML element
+- ( ) Des coins arrondis sur un élément HTML
 
   \--- feedback ---
 
-Not quite. You use a `border-radius` to create rounded corners, not a gradient.
+Pas tout à fait. Tu utilises un `border-radius` pour créer des coins arrondis, pas un dégradé.
 
 \--- /feedback ---
 
