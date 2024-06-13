@@ -1,14 +1,14 @@
-## Upgrade your project
+## Améliorer ton projet
 
-If you have time, you can add more cards to your project, customise the animation and colours, or add a header and footer.
+Si tu as le temps, tu peux ajouter d'autres cartes à ton projet, personnaliser l'animation et les couleurs, ou ajouter un en-tête et un pied de page.
 
-### Add more cards
+### Ajouter d'autres cartes
 
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-7" width="550" height="710" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 
 \--- task ---
 
-To add another card, copy the completed card code below and paste it into `index.html` underneath your first card:
+Pour ajouter une autre carte, copie le code de la carte complétée ci-dessous et colle-le dans `index.html` sous ta première carte :
 
 ## --- code ---
 
@@ -34,9 +34,9 @@ filename: index.html
 
 \--- /code ---
 
-Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treats from the list below.
+Remplace `NomImage`, `NomFriandise`, et `DescriptionFriandise`, par les friandises que tu as choisies dans la liste ci-dessous.
 
-**Note:** Remember to also updated the alternative text for each image.
+**Remarques :** n'oublie pas de mettre à jour le texte alternatif pour chaque image.
 
 \--- collapse ---
 
@@ -46,9 +46,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/BaraBrith.png)
 
-**ImageName:** BaraBrith.png
-**TreatName:** Bara Brith
-**TreatDescription:** A bread with dried fruit and spices. Bara Brith is flavoured with tea.
+**NomImage:** BaraBrith.png
+**NomFriandise:** Bara Brith
+**DescriptionFriandise:** Un pain aux fruits secs et aux épices. Le Bara Brith est aromatisé au thé.
 
 \--- /collapse ---
 
@@ -60,9 +60,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Breskvice01.png)
 
-**ImageName:** Breskvice01.png or Breskvice02.png
-**TreatName:** Breskvice
-**TreatDescription:** Peach-shaped treats with one half coloured red and the other coloured yellow.
+**NomImage:** Breskvice01.png ou Breskvice02.png
+**NomFriandise:** Breskvice
+**DescriptionFriandise:** Friandises en forme de pêche dont une moitié est colorée en rouge et l'autre en jaune.
 
 \--- /collapse ---
 
@@ -74,9 +74,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Brigadeiro.png)
 
-**ImageName:** Brigadeiro.png
-**TreatName:** Brigadeiro
-**TreatDescription:** A sweet and gooey chocolatey treat that is often served in a small paper cup.
+**NomImage:** Brigadeiro.png
+**NomFriandise:** Brigadeiro
+**DescriptionFriandise:** Une friandise chocolatée sucrée et gluante qui est souvent servie dans un petit gobelet en papier.
 
 \--- /collapse ---
 
@@ -88,9 +88,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Dango01.png)
 
-**ImageName:** Dango01.png or Dango02.png
-**TreatName:** Dango
-**TreatDescription:** A dumpling made from rice flour and served on a skewer.
+**NomImage:** Dango01.png ou Dango02.png
+**NomFriandise:** Dango
+**DescriptionFriandise:** Boulette de farine de riz servie sur une brochette.
 
 \--- /collapse ---
 
@@ -98,13 +98,13 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ---
 
-## title: DatePalm
+## title: Dattier
 
 ![.](images/DatePalm01.png)
 
-**ImageName:** DatePalm01.png or DatePalm02.png
-**TreatName:** Date Palm
-**TreatDescription:** From the date palm tree, these sweet treats can be eaten fresh or dried.
+**NomImage:** DatePalm01.png ou DatePalm02.png
+**NomFriandise:** Dattier
+**DescriptionFriandise:** Issues du dattier, ces friandises peuvent être consommées fraîches ou séchées.
 
 \--- /collapse ---
 
@@ -116,9 +116,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Eclair.png)
 
-**ImageName:** Eclair.png
-**TreatName:** Eclair
-**TreatDescription:** Choux pastry filled with cream and topped with flavoured icing.
+**NomImage:** Eclair.png
+**NomFriandise:** Eclair
+**DescriptionFriandise:** Pâte à choux fourrée de crème et garnie d'un glaçage aromatisé.
 
 \--- /collapse ---
 
@@ -130,9 +130,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/FairyBread.png)
 
-**ImageName:** FairyBread.png
-**TreatName:** Fairy Bread
-**TreatDescription:** A fun, colourful treat made from white bread, butter, and sprinkles.
+**NomImage:** FairyBread.png
+**NomFriandise:** Fairy Bread
+**DescriptionFriandise:** Une friandise amusante et colorée à base de pain blanc, de beurre et de paillettes.
 
 \--- /collapse ---
 
@@ -144,9 +144,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/FrenchFancy.png)
 
-**ImageName:** FrenchFancy.png
-**TreatName:** French Fancy
-**TreatDescription:** A sponge cake with a vanilla topping and all covered in coloured icing.
+**NomImage:** FrenchFancy.png
+**NomFriandise:** French Fancy
+**DescriptionFriandise:** Une génoise nappée de vanille et recouverte d'un glaçage coloré.
 
 \--- /collapse ---
 
@@ -158,9 +158,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Halva.png)
 
-**ImageName:** Halva.png
-**TreatName:** Halva
-**TreatDescription:** Halva's popularity around the world has led to many variations of this treat that is sweetened with sugar and honey.
+**NomImage:** Halva.png
+**NomFriandise:** Halva
+**DescriptionFriandise:** La popularité du halva dans le monde entier a donné lieu à de nombreuses variantes de cette friandise sucrée au sucre et au miel.
 
 \--- /collapse ---
 
@@ -172,9 +172,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Jalebi.png)
 
-**ImageName:** Jalebi.png
-**TreatName:** Jalebi
-**TreatDescription:** Deep-fried sweet snacks in prezel or circular shapes.
+**NomImage:** Jalebi.png
+**NomFriandise:** Jalebi
+**DescriptionFriandise:** Collations sucrées frites en forme de bretzel ou de cercle.
 
 \--- /collapse ---
 
@@ -186,9 +186,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Knafeh.png)
 
-**ImageName:** Knafeh.png
-**TreatName:** Knafeh
-**TreatDescription:** A dessert pastry made from syrup-soaked pastry with a cheese filling.
+**NomImage:** Knafeh.png
+**NomFriandise:** Knafeh
+**DescriptionFriandise:** Dessert pâtissier composé d'une pâte imbibée de sirop et d'une garniture au fromage.
 
 \--- /collapse ---
 
@@ -200,9 +200,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Ladoo.png)
 
-**ImageName:** Ladoo.png
-**TreatName:** Ladoo
-**TreatDescription:** Round fried balls made from flour, butter, and sugar.
+**NomImage:** Ladoo.png
+**NomFriandise:** Ladoo
+**DescriptionFriandise:** Boules rondes frites à base de farine, de beurre et de sucre.
 
 \--- /collapse ---
 
@@ -214,9 +214,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/LollyCake.png)
 
-**ImageName:** LollyCake.png
-**TreatName:** Lolly Cake
-**TreatDescription:** A log cake that is filled with lollies or candy, rolled in coconut, and then chopped into slices.
+**NomImage:** LollyCake.png
+**NomFriandise:** Lolly Cake
+**DescriptionFriandise:** Un gâteau en forme de bûche rempli de sucettes ou de bonbons, roulé dans de la noix de coco, puis coupé en tranches.
 
 \--- /collapse ---
 
@@ -228,9 +228,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Maejakgwa01.png)
 
-**ImageName:** Maejakgwa01.png or Maejakgwa02.png
-**TreatName:** Maejakgwa
-**TreatDescription:** Fried sweet ginger cookies that are coated in syrup.
+**NomImage:** Maejakgwa01.png ou Maejakgwa02.png
+**NomFriandise:** Maejakgwa
+**DescriptionFriandise:** Biscuits sucrés au gingembre frits et enrobés de sirop.
 
 \--- /collapse ---
 
@@ -242,9 +242,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Mandazi.png)
 
-**ImageName:** Mandazi.png
-**TreatName:** Mandazi
-**TreatDescription:** Mandazi is a fried bread donut that is in the shape of a triangle or rectangle.
+**NomImage:** Mandazi.png
+**NomFriandise:** Mandazi
+**DescriptionFriandise:** Le mandazi est un beignet de pain frit en forme de triangle ou de rectangle.
 
 \--- /collapse ---
 
@@ -252,13 +252,13 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ---
 
-## title: Maple Leaf Biscuit
+## title: Biscuit feuille d'érable
 
 ![.](images/MapleLeafBiscuit.png)
 
-**ImageName:** MapleLeafBiscuit.png
-**TreatName:** Maple Leaf Biscuit
-**TreatDescription:** Biscuits sandwiched together with a middle filling made of maple syrup cream.
+**NomImage:** MapleLeafBiscuit.png
+**NomFriandise:** Biscuit feuille d'érable
+**DescriptionFriandise:** Des biscuits pris en sandwich avec une garniture centrale à base de crème au sirop d'érable.
 
 \--- /collapse ---
 
@@ -270,9 +270,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Oliebollen.png)
 
-**ImageName:** Oliebollen.png
-**TreatName:** Oliebollen
-**TreatDescription:** Fried bread that is mixed with fruit and shaped into balls.
+**NomImage:** Oliebollen.png
+**NomFriandise:** Oliebollen
+**DescriptionFriandise:** Pain frit mélangé à des fruits et façonné en boules.
 
 \--- /collapse ---
 
@@ -284,9 +284,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/PartyRing.png)
 
-**ImageName:** PartyRing.png
-**TreatName:** Party Ring
-**TreatDescription:** A type of biscuit with a layer of hard coloured icing on the top.
+**NomImage:** PartyRing.png
+**NomFriandise:** Party Ring
+**DescriptionFriandise:** Un type de biscuit avec une couche de glaçage dur et coloré sur le dessus.
 
 \--- /collapse ---
 
@@ -298,9 +298,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/TimTams.png)
 
-**ImageName:** TimTams.png
-**TreatName:** Tim Tams
-**TreatDescription:** A chocolate biscuit with a chocolate cream filling and hard chocolate covering.
+**NomImage:** TimTams.png
+**NomFriandise:** Tim Tams
+**DescriptionFriandise:** Biscuit au chocolat fourré d'une crème au chocolat et recouvert de chocolat dur.
 
 \--- /collapse ---
 
@@ -312,9 +312,9 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 ![.](images/Zarda.png)
 
-**ImageName:** Zarda.png
-**TreatName:** Zarda
-**TreatDescription:** A fragrant, yellow sweet rice dessert that is often baked with dried fruit or nuts.
+**NomImage:** Zarda.png
+**NomFriandise:** Zarda
+**DescriptionFriandise:** Dessert à base de riz sucré jaune et parfumé, souvent cuit avec des fruits secs ou des noix.
 
 \--- /collapse ---
 
@@ -322,15 +322,15 @@ Replace `ImageName`, `TreatName`, and `TreatDescription`, with your chosen treat
 
 \--- /task ---
 
-### Build your webpage
+### Créer ta page web
 
 \--- task ---
 
-Use your skills from the [Anime expressions](http://rpf.io/anime-expressions){:target="_blank"} project and [Top 5 emojis](http://rpf.io/top-5-emoji-list){:target="_blank"} project to add:
+Utilise tes compétences acquises des projets [Expressions d'anime](http://rpf.io/anime-expressions){:target="_blank"} et [Top 5 des emojis](http://rpf.io/top-5-emoji-list){:target="_blank"} pour ajouter :
 
-- A header
-- A footer
-- A quote
+- Un en-tête
+- Un pied de page
+- Une citation
 
 \--- /task ---
 
@@ -338,9 +338,9 @@ Use your skills from the [Anime expressions](http://rpf.io/anime-expressions){:t
 
 ---
 
-## title: Upgraded project
+## title: Projet amélioré
 
-You can view the [upgraded project here](https://editor.raspberrypi.org/en/projects/flip-treat-webcards-step-7){:target="_blank"}.
+Tu peux voir le [projet amélioré ici](https://editor.raspberrypi.org/fr-FR/projects/flip-treat-webcards-step-7){:target="_blank"}.
 
 \--- /collapse ---
 
