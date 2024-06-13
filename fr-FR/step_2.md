@@ -1,8 +1,8 @@
-## Create your card
+## Créer ta carte
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will create an infocard for a tasty treat with an image, heading, and text.
+Dans cette étape, tu vas créer une infocarte pour une friandise savoureuse avec une image, un titre et un texte.
 </div>
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-2" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -11,17 +11,17 @@ In this step you will create an infocard for a tasty treat with an image, headin
 
 \--- task ---
 
-Open the [Flip treat webcards starter project](https://editor.raspberrypi.org/en/projects/flip-treat-webcards-starter){:target="_blank"}.
+Ouvre le [Projet de démarrage Carte web de friandises à retourner](https://editor.raspberrypi.org/fr-FR/projects/flip-treat-webcards-starter){:target="_blank"}.
 
 \--- /task ---
 
 \--- task ---
 
-The `<title>` tag within your code is used to display text in the title bar of your web browser. This text should be relevant to your webpage.
+La balise `<title>` dans ton code est utilisée pour afficher du texte dans la barre de titre de ton navigateur web. Ce texte doit être en rapport avec ta page web.
 
-You can find the `<title>` in the `<head>` element at the top of your `index.html` file.
+Tu peux trouver le `<title>` dans l'élément `<head>` en haut de ton fichier `index.html`.
 
-**Change** your title to `Treat flip cards`.
+**Change** ton titre par `Cartes de friandises à retourner`.
 
 ## --- code ---
 
@@ -56,15 +56,15 @@ line_highlights: 13
 
 \--- task ---
 
-Click on the small triangle next to the `<head>` tag to collapse the `<head>`.
+Clique sur le petit triangle à côté de la balise `<head>` pour réduire le `<head>`.
 
-You can collapse parts of the code you don't need to focus on to make your code easier to read.
+Tu peux réduire les parties du code sur lesquelles tu n'as pas besoin de te concentrer pour rendre ton code plus facile à lire.
 
 \--- /task ---
 
 \--- task ---
 
-Add a `<section>` to the `<main>` part of your page. Give the `<section>` a `wrap` class to make your webpage responsive.
+Ajoute une `<section>` à la partie `<main>` de ta page. Donne à la classe `<section>` une classe `wrap` pour que ta page web soit responsive.
 
 ## --- code ---
 
@@ -89,19 +89,19 @@ line_highlights: 29-31
 \--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Graphic designers**</span> are people who create engaging physical or digital visual content. Some examples of graphic design work include company logos, product packaging, and website banner design. Our graphic designer Kate has made some images of treats from around the world for you to use in your project. 
+<span style="color: #0faeb0">**Les graphistes**</span> sont des personnes qui créent des contenus visuels physiques ou numériques attrayants. Parmi les exemples de travaux de conception graphique, on peut citer les logos d'entreprise, les emballages de produits et la conception de bannières de sites web. Notre graphiste Kate a créé des images de friandises du monde entier que tu peux utiliser dans ton projet. 
 
-![A collage of treats to use in the project.](images/treats.png)
+![Un collage de friandises à utiliser dans le projet.](images/treats.png)
 
 </p>
 
-The `<div>` element is used to group other elements. The `<div>` element is used when there isn't a more appropriate tag, such as `<section>` and `<blockquote>`.
+L'élément `<div>` est utilisé pour regrouper d'autres éléments. L'élément `<div>` est utilisé lorsqu'il n'existe pas de balise plus appropriée, comme `<section>` et `<blockquote>`.
 
 \--- task ---
 
-Create a `<div>` that contains an image. The first image is `LapisSarawak02.png`, a sweet treat from Malaysia.
+Crée un `<div>` qui contient une image. La première image est `LapisSarawak02.png`, une friandise de Malaisie.
 
-![A cartoon-style graphic of Lapis Sarawak, a colourful, geometric cake.](images/LapisSarawak02.png)
+![Un graphique de style cartoon de Lapis Sarawak, un gâteau coloré et géométrique.](images/LapisSarawak02.png)
 
 ## --- code ---
 
@@ -126,10 +126,10 @@ line_highlights: 30-32
 
 \--- task ---
 
-Add another `<div>` with a heading and short paragraph about Lapis Sarawak:
+Ajoute un autre `<div>` avec un titre et un court paragraphe sur Lapis Sarawak :
 
-Heading: `Lapis Sarawak`
-Paragraph: `A cake baked in layers to make colourful patterns.`
+Titre : `Lapis Sarawak`
+Paragraphe : `Un gâteau cuit en couches pour créer des motifs colorés.`
 
 ## --- code ---
 
@@ -159,9 +159,9 @@ line_highlights: 33-36
 
 \--- task ---
 
-**Test:** Click the **Run** button.
+**Test :** clique sur le bouton **Run**.
 
-View your webpage. You should be able to see an image of a Lapis Sarawak and your text that describes the image.
+Regarde ta page web. Tu dois pouvoir voir l'image d'un Lapis Sarawak et ton texte qui décrit l'image.
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-step-2" width="500" height="450" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
