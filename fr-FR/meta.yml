@@ -1,8 +1,8 @@
-title: Flip treat webcards
+title: Cartes web de friandises à retourner
 hero_image: images/banner.png
-description: Create a set of interactive cards that tell people about sweet treats from around the world.
-meta_title: CSS tutorial | Learn web development | Flip treat webcards
-meta_description: In this CSS tutorial you will learn web development with the Raspberry Pi Foundation. Use CSS animations to create interactive cards that flip over.
+description: Crée une série de cartes interactives qui présentent des friandises du monde entier.
+meta_title: Tutoriel CSS | Apprendre le développement web | Carte web de friandises à retourner
+meta_description: Dans ce tutoriel CSS, tu apprendras le développement web avec la Raspberry Pi Foundation. Utilise les animations CSS pour créer des cartes interactives qui se retournent.
 version: 4
 listed: true
 copyedit: true
@@ -11,17 +11,17 @@ steps:
   - 
     title: Introduction
   - 
-    title: Create your card
+    title: Créer ta carte
   - 
-    title: Flip your card
+    title: Retourner ta carte
     completion: engaged
   - 
-    title: Style your card
+    title: Styliser ta carte
   - 
-    title: Choose your font
+    title: Choisir ta police
     completion: internal
   - 
-    title: Reflection
+    title: Réflexion
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,6 +29,6 @@ steps:
       passing_score: 3
     completion: external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: What next?
+    title: Et ensuite ?
