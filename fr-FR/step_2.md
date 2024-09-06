@@ -48,7 +48,7 @@ line_highlights: 13
 
   <!-- Appears on the web browser tab and search results -->
 
-  <title>Treat flip cards</title> 
+  <title>Cartes de friandises à retourner</title> 
 
 \--- /code ---
 
