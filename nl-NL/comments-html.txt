@@ -17,3 +17,15 @@ Importeer lettertypen van Google
 LekkernijNaam
 
 LekkernijBeschrijving
+
+Include CSS style file
+
+The content that appears in the browser
+
+The whole card
+
+The content within the card
+
+The front of the card
+
+The back of the card
