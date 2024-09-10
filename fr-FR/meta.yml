@@ -1,0 +1,34 @@
+title: Cartes web de friandises à retourner
+hero_image: images/banner.png
+description: Crée une série de cartes interactives qui présentent des friandises du monde entier.
+meta_title: Tutoriel CSS | Apprendre le développement web | Carte web de friandises à retourner
+meta_description: Dans ce tutoriel CSS, tu apprendras le développement web avec la Raspberry Pi Foundation. Utilise les animations CSS pour créer des cartes interactives qui se retournent.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-03-26"
+steps:
+  - 
+    title: Introduction
+  - 
+    title: Créer ta carte
+  - 
+    title: Retourner ta carte
+    completion: engaged
+  - 
+    title: Styliser ta carte
+  - 
+    title: Choisir ta police
+    completion: internal
+  - 
+    title: Réflexion
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - 
+    title: Améliorer ton projet
+  - 
+    title: Et ensuite ?

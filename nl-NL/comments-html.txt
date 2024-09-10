@@ -1,0 +1,31 @@
+Dit deel is bedoeld voor extra informatie die de browser nodig heeft om de pagina correct te laden
+
+De pagina op mobiel niet verkleinen
+
+Verschijnt op het tabblad van de webbrowser en in de zoekresultaten
+
+Flip cards met lekkernijen
+
+Lapis Sarawak
+
+Een cake die in lagen wordt gebakken om kleurrijke patronen te maken.
+
+Stel het kleurenpalet en lettertypen in met behulp van variabelen
+
+Importeer lettertypen van Google
+
+LekkernijNaam
+
+LekkernijBeschrijving
+
+Voeg een CSS-stijlbestand toe
+
+De inhoud die in de browser wordt weergegeven
+
+De hele kaart
+
+De inhoud van de kaart
+
+De voorkant van de kaart
+
+De achterkant van de kaart
