@@ -18,14 +18,14 @@ NomFriandise
 
 DescriptionFriandise
 
-Include CSS style file
+Inclure le fichier de style CSS
 
-The content that appears in the browser
+Le contenu qui apparaît dans le navigateur
 
-The whole card
+La carte entière
 
-The content within the card
+Le contenu de la carte
 
-The front of the card
+Le recto de la carte
 
-The back of the card
+Le verso de la carte
