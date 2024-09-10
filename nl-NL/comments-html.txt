@@ -18,14 +18,14 @@ LekkernijNaam
 
 LekkernijBeschrijving
 
-Include CSS style file
+Voeg een CSS-stijlbestand toe
 
-The content that appears in the browser
+De inhoud die in de browser wordt weergegeven
 
-The whole card
+De hele kaart
 
-The content within the card
+De inhoud van de kaart
 
-The front of the card
+De voorkant van de kaart
 
-The back of the card
+De achterkant van de kaart
