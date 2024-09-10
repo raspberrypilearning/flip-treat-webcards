@@ -32,7 +32,7 @@ line_number_start: 1
 line_highlights: 13
 ---
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fr">
 
 <!-- Cette partie contient des informations supplémentaires dont le navigateur a besoin pour charger correctement la page -->
 <head>
@@ -43,7 +43,6 @@ line_highlights: 13
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <!-- Apparaît dans l'onglet du navigateur web et dans les résultats de recherche -->
-
   <title>Cartes de friandises à retourner</title> 
 
 --- /code ---
