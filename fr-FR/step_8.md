@@ -1,6 +1,6 @@
 ## Et ensuite ?
 
-Si tu suis le parcours [Intro au web](https://projects.raspberrypi.org/fr/pathways/web-intro), tu peux passer au projet [Tableau d'humeur](https://projects.raspberrypi.org/en/projects/mood-board). Dans ce projet, tu réaliseras une page web qui combine des couleurs, des polices et des images pour créer une apparence ou un style pour une idée de ton choix.
+Si tu suis le parcours [Intro au web](https://projects.raspberrypi.org/en/pathways/web-intro), tu peux passer au projet [Tableau d'humeur](https://projects.raspberrypi.org/en/projects/mood-board). Dans ce projet, tu réaliseras une page web qui combine des couleurs, des polices et des images pour créer une apparence ou un style pour une idée de ton choix.
 
 \--- print-only ---
 
