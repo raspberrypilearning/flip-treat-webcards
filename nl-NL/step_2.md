@@ -11,7 +11,7 @@ In deze stap maak je een infocard voor een lekkere traktatie met een afbeelding,
 
 \--- task ---
 
-Open het [Webcards met lekkernijen startproject](https://editor.raspberrypi.org/en/projects/flip-treat-webcards-starter){:target="_blank"}.
+Open het [Flip webcards met lekkernijen startproject](https://editor.raspberrypi.org/en/projects/flip-treat-webcards-starter){:target="_blank"}.
 
 \--- /task ---
 
@@ -21,7 +21,7 @@ De `<title>` tag binnen je code wordt gebruikt om tekst in de titelbalk van je w
 
 Je kunt de `<title>` binnen het `<head>` element vinden bovenaan je `index.html` bestand.
 
-**Verander** je titel in `Lekkernijen flip cards`.
+**Verander** je titel in `Flip cards met lekkernijen`.
 
 ## --- code ---
 
