@@ -157,7 +157,7 @@ line_highlights: 5-6, 9-10, 12-13
 
 \--- task ---
 
-Clique à nouveau sur le fichier `default.css` et trouve les classes `gradient1` et `gradient2`.
+Click on the `style.css` file and find the `gradient1` and `gradient2` classes.
 
 **Choisir :** mets à jour le dégradé dans la direction que tu préfères. Essaie `top`, `right`, ou `bottom left`.
 
