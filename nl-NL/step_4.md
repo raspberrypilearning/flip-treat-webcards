@@ -124,7 +124,7 @@ Klik op het `default.css` bestand en zoek het kleurenpalet bij de bovenkant van 
 **Update** de variabelen om de voor- en achterkant van de kaart in je nieuwe verloop te zien:
 
 - De voorkant van de kaart gebruikt `secondary` en `detail` variabelen
-- De achterkant gebruikt `tertiary` en `detail2` variabelen
+- De achterkant van de kaart gebruikt `tertiary` en `detail2` variabelen
 
 **Tip:** Misschien moet je ook `onsecondary` en `ontertiary` kleuren veranderen zodat je tekst in de nieuwe kleuren kan worden gelezen.
 
@@ -157,7 +157,7 @@ line_highlights: 5-6, 9-10, 12-13
 
 \--- task ---
 
-Klik opnieuw op het `default.css` bestand en zoek de `gradient1` en `gradient2` klassen.
+Click on the `style.css` file and find the `gradient1` and `gradient2` classes.
 
 **Keuze:** Werk het verloop bij in de richting die je het beste vindt. Probeer `top`, `right`, of `bottom left`.
 
