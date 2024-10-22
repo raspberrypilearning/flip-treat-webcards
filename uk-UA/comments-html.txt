@@ -1,0 +1,31 @@
+This part is for extra information the browser needs to load the page correctly
+
+Don't shrink the page on mobile
+
+Appears on the web browser tab and search results
+
+Treat flip cards
+
+Lapis Sarawak
+
+A cake baked in layers to make colourful patterns.
+
+Set up colour palette and fonts using variables
+
+Import fonts from Google
+
+TreatName
+
+TreatDescription
+
+Include CSS style file
+
+The content that appears in the browser
+
+The whole card
+
+The content within the card
+
+The front of the card
+
+The back of the card
