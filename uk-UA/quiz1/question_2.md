@@ -10,31 +10,31 @@ Which of the following is the best description of a **gradient**?
 
 - ( ) A transparent effect
 
-  \--- feedback ---
+ \--- feedback ---
 
-  Not quite. You use a transparent effect when you want to be able to see through a HTML element.
+ Not quite. You use a transparent effect when you want to be able to see through a HTML element.
 
-  \--- /feedback ---
+ \--- /feedback ---
 
 - ( ) A type of font
 
-  \--- feedback ---
+ \--- feedback ---
 
-  Not quite. A gradient is a type of visual effect.
+ Not quite. A gradient is a type of visual effect.
 
-  \--- /feedback ---
+ \--- /feedback ---
 
 - (x) A gradual change between one colour and another
 
-  \--- feedback ---
+ \--- feedback ---
 
-  That's correct! A gradient is a gradual change between colours in a particular direction.
+ That's correct! A gradient is a gradual change between colours in a particular direction.
 
-  \--- /feedback ---
+ \--- /feedback ---
 
 - ( ) Rounded corners on a HTML element
 
-  \--- feedback ---
+ \--- feedback ---
 
 Not quite. You use a `border-radius` to create rounded corners, not a gradient.
 
