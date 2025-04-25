@@ -10,31 +10,31 @@ Lequel des éléments suivants décrit le mieux un **dégradé** ?
 
 - ( ) Un effet de transparence
 
-  \--- feedback ---
+ \--- feedback ---
 
-  Pas tout à fait. Tu utilises un effet de transparence lorsque tu veux pouvoir voir à travers un élément HTML.
+ Pas tout à fait. Tu utilises un effet de transparence lorsque tu veux pouvoir voir à travers un élément HTML.
 
-  \--- /feedback ---
+ \--- /feedback ---
 
 - ( ) Un type de police
 
-  \--- feedback ---
+ \--- feedback ---
 
-  Pas tout à fait. Un dégradé est un type d'effet visuel.
+ Pas tout à fait. Un dégradé est un type d'effet visuel.
 
-  \--- /feedback ---
+ \--- /feedback ---
 
 - (x) Un changement progressif d'une couleur à une autre
 
-  \--- feedback ---
+ \--- feedback ---
 
-  C'est correct ! Un dégradé est un changement progressif entre les couleurs dans une direction donnée.
+ C'est correct ! Un dégradé est un changement progressif entre les couleurs dans une direction donnée.
 
-  \--- /feedback ---
+ \--- /feedback ---
 
 - ( ) Des coins arrondis sur un élément HTML
 
-  \--- feedback ---
+ \--- feedback ---
 
 Pas tout à fait. Tu utilises un `border-radius` pour créer des coins arrondis, pas un dégradé.
 
