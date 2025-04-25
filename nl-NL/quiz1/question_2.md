@@ -10,31 +10,31 @@ Welke van de volgende beschrijvingen is de beste beschrijving van een **verloop*
 
 - ( ) Een transparant effect
 
-  \--- feedback ---
+ \--- feedback ---
 
-  Niet helemaal. Je gebruikt een transparant effect als je een HTML-element wilt kunnen zien.
+ Niet helemaal. Je gebruikt een transparant effect als je een HTML-element wilt kunnen zien.
 
-  \--- /feedback ---
+ \--- /feedback ---
 
 - ( ) Een soort lettertype
 
-  \--- feedback ---
+ \--- feedback ---
 
-  Niet helemaal. Een verloop is een soort visueel effect.
+ Niet helemaal. Een verloop is een soort visueel effect.
 
-  \--- /feedback ---
+ \--- /feedback ---
 
 - (x) Een geleidelijke verandering van de ene kleur naar de andere
 
-  \--- feedback ---
+ \--- feedback ---
 
-  Dat is correct! Een verloop is een geleidelijke verandering tussen de kleuren in een bepaalde richting.
+ Dat is correct! Een verloop is een geleidelijke verandering tussen de kleuren in een bepaalde richting.
 
-  \--- /feedback ---
+ \--- /feedback ---
 
 - ( ) Afgeronde hoeken van een HTML-element
 
-  \--- feedback ---
+ \--- feedback ---
 
 Niet helemaal. Je gebruikt een `border-radius` om afgeronde hoeken te maken, geen verloop.
 
