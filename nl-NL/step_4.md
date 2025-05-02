@@ -157,7 +157,7 @@ line_highlights: 5-6, 9-10, 12-13
 
 \--- task ---
 
-Click on the `style.css` file and find the `gradient1` and `gradient2` classes.
+Klik opnieuw op het `style.css` bestand en zoek de `gradient1` en `gradient2` klassen.
 
 **Keuze:** Werk het verloop bij in de richting die je het beste vindt. Probeer `top`, `right`, of `bottom left`.
 
