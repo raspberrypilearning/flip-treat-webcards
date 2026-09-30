@@ -5,7 +5,7 @@ pdf: resources/rpfi-flip-your-card.pdf
 meta_title: CSS tutorial | Learn web development | Flip treat webcards
 meta_description: In this CSS tutorial you will learn web development with the Raspberry Pi Foundation. Use CSS animations to create interactive cards that flip over.
 version: 4
-listed: true
+listed: false
 copyedit: true
 last_tested: "2021-03-26"
 steps:
